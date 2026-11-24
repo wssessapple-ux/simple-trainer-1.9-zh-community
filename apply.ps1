@@ -106,6 +106,8 @@ foreach ($row in $rows) {
 }
 
 $outPath = if ([IO.Path]::IsPathRooted($Output)) { $Output } else { Join-Path (Get-Location).Path $Output }
+$outDir = Split-Path -Parent $outPath
+if ($outDir -and -not (Test-Path -LiteralPath $outDir)) { New-Item -ItemType Directory -Force -Path $outDir | Out-Null }
 [IO.File]::WriteAllBytes($outPath, $b)
 
 if ($Report) {
