@@ -1,4 +1,4 @@
-#
+﻿#
 # Simple Trainer 1.9 简体化打补丁脚本（MIT）
 #
 # 原理：TrainerV.asi 的 .rdata 段里字符串紧贴排列，每条后只跟 1 个 \0。
@@ -34,16 +34,49 @@ $RdataLen     = 1483264     # .rdata 长度
 $srcPath = (Resolve-Path -LiteralPath $Source).Path
 $b = [IO.File]::ReadAllBytes($srcPath)
 
+# 从文件里捞出修改器自报的版本串，用于报错时说清「你手上到底是哪版」
+function Get-TrainerInfo([byte[]]$bytes) {
+    $txt = [Text.Encoding]::Latin1.GetString($bytes)
+    $ver  = [regex]::Match($txt, 'Simple Trainer for GTAV Version ([0-9][0-9.]*)').Groups[1].Value
+    $date = [regex]::Match($txt, '(January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d\d').Value
+    return [pscustomobject]@{ Version = $ver; Date = $date }
+}
+
+$info = Get-TrainerInfo $b
+$stamp = if ($info.Version -and $info.Date) { "Simple Trainer $($info.Version)（$($info.Date)）" }
+         elseif ($info.Version) { "Simple Trainer $($info.Version)" }
+         else { '未识别到版本串' }
+
+function Fail([string]$msg, [int]$code = 2) { Write-Host $msg; Write-Host ''; exit $code }
+
 if (-not $Force) {
     if ($b.Length -ne $ExpectedSize) {
-        throw "文件大小 $($b.Length) 与预期 $ExpectedSize 不符。请确认拿到的是 Simple Trainer 1.9 原版；确认无误可加 -Force。"
+        $delta = $b.Length - $ExpectedSize
+        Fail @"
+版本不符，已中止。
+  检测到      : $stamp
+  实际大小    : $($b.Length) 字节（预期 $ExpectedSize，差 $delta）
+  偏移表适配  : Simple Trainer 1.9 / 2015 年 7 月 / MD5 $ExpectedMd5
+
+如果检测到的版本就是 1.9，多半是文件没下完整或被安全软件改过，重新拿一份原版。
+如果检测到的是 1.0.678、1.0.2060 之类的新版 TrainerV，字符串布局和这版完全不同，
+这份偏移表对它无效——需要按新版单独扫描重建，硬套只会写坏文件。
+"@
     }
     $md5 = (Get-FileHash -LiteralPath $srcPath -Algorithm MD5).Hash
     if ($md5 -ne $ExpectedMd5) {
-        throw "MD5 $md5 与预期 $ExpectedMd5 不符。偏移表只对这个构建有效，版本不对会写坏，已中止。"
+        Fail @"
+大小对上了但内容不一致，已中止。
+  检测到      : $stamp
+  实际 MD5    : $md5
+  预期 MD5    : $ExpectedMd5（Simple Trainer 1.9 / 2015 年 7 月）
+
+常见原因：同一版本被重新打包或加壳、你手上是别的 GTA 构建配套的 asi、
+或之前已经被打过补丁。用备份的原版重来，不要在这份文件上叠加。
+"@
     }
 }
-if ($b.Length -lt ($RdataStart + $RdataLen)) { throw '文件长度不足以覆盖 .rdata，版本不对。' }
+if ($b.Length -lt ($RdataStart + $RdataLen)) { Fail "文件长度不足（$($b.Length) 字节），连 .rdata 都覆盖不到，$stamp 不适用。" }
 
 # ---- 黑名单：与其他功能共用、改短即崩的串 ----
 $ban = @()
