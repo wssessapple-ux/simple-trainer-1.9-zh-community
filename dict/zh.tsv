@@ -1,0 +1,1942 @@
+﻿0x204328	goodbye	再見
+0x205E80	Combat	戰鬥
+0x205E8C	Drive	駕駛
+0x205E98	Flee Player	逃離玩家
+0x205EA8	Hands Up	舉手
+0x205EB8	Look at Player	看向玩家
+0x205EC8	Stand Still	站立不動
+0x205ED8	Use Mobile Phone, Stand Still	使用手機，站立不動
+0x205EF8	Use Mobile Phone and Walk	使用手機並行走
+0x205F14	Walk	走路
+0x205F24	Green	綠
+0x205F2C	Gold	金
+0x205F34	Pink	粉
+0x205F4C	Orange	橙
+0x205FA8	Select Model	選擇模型
+0x205FC8	Select Driveby Weapon	車內射擊武器
+0x205FE0	Bodyguard/Ped Drive Menu	保鏢／路人駕駛選單
+0x206000	Godmode	無敵
+0x206008	Set Health	設定生命值
+0x206018	Add Blip	新增標記
+0x206028	Dead Peds Drop Weapon	死人掉武器
+0x206040	Set Money	設定金錢
+0x206050	Spawn Bodyguard	生成保鏢
+0x206060	Spawn Random BodyGuard	生成隨機保鏢
+0x206078	Spawn Ped	生成路人
+0x206088	Spawn Random Ped	生成隨機路人
+0x2060A0	Spawn Attacking Ped	生成攻擊路人
+0x2060B8	Spawn Random Attacking Ped	生成隨機攻擊型路人
+0x2060D8	Spawn Driver	生成司機
+0x2060E8	Spawn Random Driver	生成隨機司機
+0x206100	Task Drive to Waypoint	駕駛到導航點
+0x206138	Task Drive	任務駕駛
+0x206148	Spawn two Random Combat Peds	生成兩名隨機戰鬥路人
+0x206168	Spawn Random Attacking Driver/Ped	生成隨機攻擊型司機／路人
+0x206190	Teleport All Bodyguards to Player	傳送全部保鏢到玩家
+0x2061B8	Recruit nearest Ped as Bodyguard	招募最近路人為保鏢
+0x2061E0	Set Specific Ped	設定指定路人
+0x2061F8	Bodyguard / Ped Clothes Menu (last spawned/specific)	保鏢／路人服裝選單（最近生成/指定）
+0x206230	Bodyguard / Ped Animation Menu (last spawned/specific)	保鏢／路人動作選單（最近生成/指定）
+0x206268	Move Bodyguard / Ped (last spawned/specific)	移動保鏢／路人（最近生成/指定）
+0x206298	Bodyguard/Ped Task and Clone Menu	保鏢／路人任務與複製選單
+0x2062C0	Bodyguard/Ped Walk Style Menu	保鏢路人走路姿勢
+0x2062E0	Bodyguard/Ped Voice Menu	保鏢／路人聲音選單
+0x206300	All Bodyguards/Peds Leave	全部保鏢／路人離開
+0x2063A8	Select Car	選擇車輛
+0x2063B8	Set Primary Vehicle Color	設定主色載具顏色
+0x2063D8	Set Secondary Vehicle Color	設定副色載具顏色
+0x206428	Follow as Driver	作為司機跟隨
+0x206640	Task	任務
+0x206648	Assign to All	指派給全部
+0x206658	Clone Bodyguard / Ped (last spawned/specific)	複製保鏢／路人（最近生成/指定）
+0x206688	Clone Player	複製玩家
+0x206698	No Ragdoll	不軟倒
+0x2066A8	Select Current Weapon	選擇當前武器
+0x2066C0	Select Current Driveby Weapon	選擇當前車內射擊武器
+0x2067B8	Michael	麥可
+0x2067C0	Franklin	富蘭克
+0x2067CC	Trevor	崔佛
+0x2067D8	Story Line Peds 1	主線角色1
+0x2067F0	Story Line Peds 2	主線角色2
+0x206808	Animals	動物
+0x206810	CS Models 1	CS模型1
+0x206820	CS Models 2	CS模型2
+0x206830	CSB Models 	CSB模型
+0x206840	MP Peds 	MP路人
+0x206850	Female A Peds 1	女A路人1
+0x206860	Female A Peds 2	女A路人2
+0x206870	Male A Peds 1	男A路人1
+0x206880	Male A Peds 2	男A路人2
+0x206890	Male A Peds 3	男A路人3
+0x2068A0	G Peds	G路人
+0x2068A8	S Peds 1	S路人1
+0x2068B8	S Peds 2	S路人2
+0x2068C8	U Peds 1	U路人1
+0x2068D8	U Peds 2	U路人2
+0x2069E8	Bodyguard Driveby Weapon	保鏢車內射擊武器
+0x206B3C	Red	紅
+0x206BE0	Hot Pink	桃紅
+0x206C38	Yellow	黃
+0x206C80	Sea Green	海綠
+0x206D2C	Blue	藍
+0x206D34	Blue 2	藍2
+0x206DB0	Light Blue	淺藍
+0x206F7C	Brown	棕
+0x206FA8	Olive Drab	橄欖褐
+0x206FB8	Dark Earth 	暗土
+0x2071F0	R didn't name this one	作者未命名
+0x207210	Alloy	輪框
+0x207218	Dark Copper	暗銅
+0x207228	Dark Ivory	暗象牙
+0x207238	Dark Earth	暗土
+0x207248	Yellow Bird	黃鳥
+0x207258	Pea Green	豌豆綠
+0x207268	Royal Blue	寶藍
+0x207278	Baby Blue	嬰兒藍
+0x207288	Fluorescent Blue	螢光藍
+0x2072A0	Slate Blue	石板藍
+0x2072DC	NONE	無
+0x2075C0	Stock Horn	原廠喇叭
+0x2075D0	Truck Horn	卡車喇叭
+0x2075E0	Cop Horn	警察喇叭
+0x2075F0	Clown Horn	小丑喇叭
+0x207600	Musical Horn 1	音樂喇叭1
+0x207610	Musical Horn 2	音樂喇叭2
+0x207620	Musical Horn 3	音樂喇叭3
+0x207630	Musical Horn 4	音樂喇叭4
+0x207640	Musical Horn 5	音樂喇叭5
+0x207650	Sad Trombone	悲傷長號
+0x207660	Classical Horn 1	古典喇叭1
+0x207678	Classical Horn 2	古典喇叭2
+0x207690	Classical Horn 3	古典喇叭3
+0x2076A8	Classical Horn 4	古典喇叭4
+0x2076C0	Classical Horn 5	古典喇叭5
+0x2076D8	Classical Horn 6	古典喇叭6
+0x2076F0	Classical Horn 7	古典喇叭7
+0x207708	Scale - Do	音階Do
+0x207718	Scale - Re	音階Re
+0x207728	Scale - Mi	音階Mi
+0x207738	Scale - Fa	音階Fa
+0x207748	Scale - Sol	音階Sol
+0x207758	Scale - La	音階La
+0x207768	Scale - Ti	音階Ti
+0x207778	Scale - Do (high)	音階Do (high)
+0x207790	Jazz Horn 1	爵士喇叭1
+0x2077A0	Jazz Horn 2	爵士喇叭2
+0x2077B0	Jazz Horn 3	爵士喇叭3
+0x2077C0	Jazz Horn Loop	爵士循環
+0x2077D0	Star Spangled Banner 1	星條旗1
+0x2077E8	Star Spangled Banner 2	星條旗2
+0x207800	Star Spangled Banner 3	星條旗3
+0x207818	Star Spangled Banner 4	星條旗4
+0x207830	Classical Horn Loop 1	古典循環1
+0x207848	Classical Horn Loop 2	古典循環2
+0x207860	Classical Horn 8	古典喇叭8
+0x207874	Luxe 1	豪華1
+0x20787C	Luxe 2	豪華2
+0x207884	Luxe 3	豪華3
+0x207890	Blue on White 1	白底藍字1
+0x2078A0	Blue on White 2	白底藍字2
+0x2078B0	Blue on White 3	白底藍字
+0x2078C0	Yellow on Blue	藍底黃字
+0x2078D0	Yellow on Black	黑底黃字
+0x2078E0	Yankton	揚克
+0x2078E8	Sport	運動
+0x2078F8	Low Rider	低底盤
+0x207908	Offroad	越野
+0x207910	Tuner	改裝
+0x207918	Bike Wheels	機車車輪
+0x207928	High End	高端
+0x207934	None	無
+0x207940	Pure Black	純黑
+0x207950	Dark Smoke	暗煙
+0x207960	Light Smoke	淺煙
+0x207974	Limo	加長車
+0x207980	EMS Upgrade Level 1	醫療等級1
+0x207998	EMS Upgrade Level 2	醫療等級2
+0x2079B0	EMS Upgrade Level 3	醫療等級3
+0x2079C8	EMS Upgrade Level 4	醫療等級4
+0x2079E0	Armor Upgrade 20%	護甲升級20%
+0x2079F8	Armor Upgrade 40%	護甲升級40%
+0x207A10	Armor Upgrade 60%	護甲升級60%
+0x207A28	Armor Upgrade 80%	護甲升級80%
+0x207A40	Armor Upgrade 100%	護甲升級100%
+0x207A58	Lowered Suspension	降低懸吊
+0x207A70	Street Suspension	街道懸吊
+0x207A88	Sport Suspension	運動懸吊
+0x207AA0	Competition Suspension	競賽懸吊
+0x207AB8	Race Suspension	競賽懸吊
+0x207AC8	Stock Transmission	原廠變速箱
+0x207AE0	Street Transmission	街道變速箱
+0x207AF8	Sports Transmission	運動變速箱
+0x207B10	Race Transmission	競賽變速箱
+0x207B28	Stock Brakes	原廠剎車
+0x207B38	Street Brakes	街道剎車
+0x207B48	Sport Brakes	運動剎車
+0x207B58	Race Brakes	競賽剎車
+0x207B80	Vehicle God Mode	載具無敵模式
+0x207B98	Vehice God Mode Settings	載具無敵設定
+0x207BB8	Fix Vehicle	修理載具
+0x207BC8	Clean Vehicle	清洗載具
+0x207BD8	License Plate Menu	車牌選單
+0x207BF0	Vehicle Mod Menu	車輛改裝選單
+0x207C08	Under Vehicle Neon Lights   	車底霓虹燈
+0x207C28	Set Neon Color and V Neons	設定霓虹顏色
+0x207C48	Vehicle Lights Menu	車燈選單
+0x207C60	Vehicle Color Menu	載具顏色選單
+0x207C78	Hydraulics	液壓
+0x207C88	Add Blip for Spawned Vehicles	為已生成載具新增標記
+0x207CA8	Mark all Spawned Vehicles for Deletion	標記全部生成車刪除
+0x207CD0	Delete All Vehicle Blips	刪除全部載具標記
+0x207CF0	Vehicle Livery Menu	車輛塗裝選單
+0x207D08	Vehicle Components Menu	車輛零件選單
+0x207D20	Default Radio Station	預設電台
+0x207D38	Tune To	調到
+0x207D40	Get into Nearest Vehicle as Passenger	上最近車當乘客
+0x207D68	Saved Vehicle	已儲存載具
+0x207D78	Warp to Saved Vehicle	傳送到已存載具
+0x207D90	Delete Saved Vehicle	刪除已儲存載具
+0x207DA8	Explode Saved Vehicle	引爆已儲存載具
+0x207DC0	Vehicle Load / Save Menu	載具載入/儲存選單
+0x207DE0	Vehicle Doors and Windows Menu	載具車門與車窗選單
+0x207E00	Vehicle Tyre Menu	載具輪胎選單
+0x207E18	Load Vehicle Color Slot 1	載入載具顏色欄位1
+0x207E38	Load Vehicle Color Slot 2	載入載具顏色欄位2
+0x207E58	Load Vehicle Color Slot 3	載入載具顏色欄位3
+0x207E78	Load Vehicle Color Slot 4	載入載具顏色欄位4
+0x207E98	Load Vehicle Color Slot 5	載入載具顏色欄位5
+0x207EB8	Load Vehicle Color Slot 6	載入載具顏色欄位6
+0x207ED8	Next Song	下一首
+0x207EE8	Set Vehicle Alpha	設定車透明度
+0x208110	Enable Vehicle Speed Boost	啟用車輛加速
+0x208130	Vehicle Collision	車輛碰撞
+0x208148	Freeze Vehicle	凍結載具
+0x208158	UnFreeze Vehicle	解凍載具
+0x208170	Flip Vehicle	翻轉載具
+0x208180	Vehicle Alarm	車輛警報
+0x208190	Engine Off/On	引擎開關
+0x2081A0	Vehicle/Player Invisible/Visible	車/人隱形/可見
+0x2081C8	Make Vehicle Dirty	弄髒載具
+0x208208	Leave Engine Running	保持引擎運轉
+0x208220	Disable Siren	關閉警笛
+0x208230	Cycle Through Passenger Seats	切換乘客座
+0x208250	Attach/Release Vehicle to Skylift	載具附掛／釋放起重機
+0x208278	Set Vehicle Health	設定載具生命值
+0x208290	Vehicle Health Display	車輛耐久顯示
+0x2082A8	Lock / Unlock Vehicle Doors	鎖/解鎖車門
+0x2082C8	Silence Vehicle Alarm when Stealing	偷車時靜音警報
+0x2082F0	Vehicle Rotation 90 degrees	車輛旋轉90度
+0x208310	Destroy / Fix Vehicle Engine	破壞/修復引擎
+0x208350	Lower Vehicle	降車身
+0x208378	Engine Power Multiplier	引擎馬力倍率
+0x2083B0	Engine Torque Multiplier	引擎扭力倍率
+0x2087F0	Edit Number Plate	編輯車牌
+0x208868	Spoiler	尾翼
+0x208870	Front Bumper	前保險桿
+0x208880	Rear Bumper	後保桿
+0x20888C	Skirt	裙子
+0x208898	Exhaust	排氣
+0x2088A0	Chassis	底盤
+0x2088A8	Grill	水箱
+0x2088B0	Bonnet	車蓋
+0x2088B8	Left Wing	左翼
+0x2088C8	Right Wing	右翼
+0x2088D4	Roof	車頂
+0x2088DC	Engine	引擎
+0x2088E4	Brakes	剎車
+0x2088F0	Transmission	變速箱
+0x208900	Horns	角
+0x208908	Suspension	懸吊
+0x208914	Armor	護甲
+0x208920	Back Wheels (Bikes Only)	後輪（僅機車）
+0x208940	Change Wheel Type	更改輪型
+0x208954	Turbo	渦輪
+0x208960	Xenon Headlights	氙氣頭燈
+0x208978	Windows Tint	車窗貼膜
+0x208988	Tyre Smoke	輪胎煙
+0x208998	Set Tyre Smoke Color	輪胎煙色
+0x2089B0	Bullet Proof Tyres	防彈輪胎
+0x208D18	Set Wheel Colors	設定車輪顏色
+0x208D2C	Random	隨機
+0x208D38	Custom Vehicle Color Menu	自訂車色選單
+0x208D58	Save Vehicle Car Color	儲存車色
+0x208EA0	Custom Primary	自訂主色
+0x208EB0	Custom Secondary	自訂副色
+0x208EC8	Custom Random	自訂隨機
+0x208ED8	Leave Pearl	留下珍珠
+0x208EE8	Enter Primary RGB	輸入主色RGB
+0x208F00	Enter Secondary RGB	輸入副色RGB
+0x209010	Vehicle Livery	車輛塗裝
+0x209068	Vehicle Components	車輛零件
+0x2090D0	Select Default Radio Station	選預設電台
+0x2092C8	Load All Slots at Original Location	全部欄位載入回原位
+0x2095C8	Open Left Front Door	開左前門
+0x2095E0	Open Right Front Door	開右前門
+0x2095F8	Open Left Rear Door	開左後門
+0x209610	Open Right Rear Door	開右後門
+0x209628	Open Hood	開引擎蓋
+0x209638	Open Trunk	開後車廂
+0x209648	Lower Roof	降車頂
+0x209658	Open All Car Doors	打開全部車門
+0x209670	Close Left Front Door	關左前門
+0x209688	Close Right Front Door	關右前門
+0x2096A0	Close Left Rear Door	關左後門
+0x2096B8	Close Right Rear Door	關右後門
+0x2096D0	Close Hood	關引擎蓋
+0x2096E0	Close Trunk	關後車廂
+0x2096F0	Raise Roof	升車頂
+0x209700	Close All Car Doors	關閉全部車門
+0x209718	Remove Door Disappear	移除消失車門
+0x209730	Remove Left Front Door	移除左前門
+0x209748	Remove Right Front Door	移除右前門
+0x209760	Remove Left Rear Door	移除左後門
+0x209778	Remove Right Rear Door	移除右後門
+0x209790	Remove Hood	移除引擎蓋
+0x2097A0	Remove Trunk	移除後車廂
+0x2097B0	Remove All Doors	拆除全部車門
+0x2097C8	Remove Left Front Window	移除左前窗
+0x2097E8	Remove Right Front Window	移除右前窗
+0x209808	Remove Left Rear Window	移除左後窗
+0x209820	Remove Right Rear Window	移除右後窗
+0x209840	Remove All Windows	拆除全部車窗
+0x209858	Restore Left Front Window	復原左前窗
+0x209878	Restore Right Front Window	復原右前窗
+0x209898	Restore Left Rear Window	復原左後窗
+0x2098B8	Restore Right Rear Window	復原右後窗
+0x2098D8	Restore All Windows	恢復全部車窗
+0x2098F0	Number Plate Style	車牌樣式
+0x209930	Burst Tyre 1	爆破輪胎1
+0x209940	Burst Tyre 2	爆破輪胎2
+0x209950	Burst Tyre 3	爆破輪胎3
+0x209960	Burst Tyre 4	爆破輪胎4
+0x209970	Burst All Tyres	全爆輪胎
+0x209980	Fix Tyre 1	修理輪胎1
+0x209990	Fix Tyre 2	修理輪胎2
+0x2099A0	Fix Tyre 3	修理輪胎3
+0x2099B0	Fix Tyre 4	修理輪胎4
+0x2099C0	Fix All Tyres	修復全輪胎
+0x2099F0	Left Indicator	左方向燈
+0x209A00	Right Indicator	右方向燈
+0x209A10	Hazard Lights	警示燈
+0x209A20	Interior Light	車內燈
+0x209A30	Taxi Light	計程車頂燈
+0x209A40	Search Light	探照燈
+0x209A50	Veicle Alpha	車透明度
+0x209A90	Save to Vehicle Color Slot 1 (RCTRL+Num4)	存車色格1(右Ctrl+Num4)
+0x209AC0	Save to Vehicle Color Slot 2 (RCTRL+Num5)	存車色格2(右Ctrl+Num5)
+0x209AF0	Save to Vehicle Color Slot 3 (RCTRL+Num6)	存車色格3(右Ctrl+Num6)
+0x209B20	Save to Vehicle Color Slot 4 (RCTRL+Num7)	存車色格4(右Ctrl+Num7)
+0x209B50	Save to Vehicle Color Slot 5 (RCTRL+Num8)	存車色格5(右Ctrl+Num8)
+0x209B80	Save to Vehicle Color Slot 6 (RCTRL+Num9)	存車色格6(右Ctrl+Num9)
+0x209BD0	Prevent Vehicle Damage	防止載具損壞
+0x209BE8	Prevent Vehicle Visual Damage	防止外觀損壞
+0x209C08	Prevent Vehicle Tyre Damage	防止輪胎損壞
+0x209C28	Prevent Wheels from Breaking	防止車輪損壞
+0x209C48	Prevent Doors from Breaking	防止車門損壞
+0x209C68	Vehicle Bullet Proof	車輛防彈
+0x209C80	Vehicle Fire Proof	車輛防火
+0x209C98	Vehicle Explosion Proof	車輛防爆
+0x209CB0	Vehicle Collision Proof	車輛防撞
+0x209CC8	Vehicle Melee Proof	車輛防近戰
+0x209CE0	Player Cannot be Dragged out	玩家無法被拖出
+0x209D00	Player Cannot be Shot	玩家無法被射中
+0x209D18	Auto Repair	自動修理
+0x209D90	Vehicle Health	載具生命值
+0x209DA0	Engine Health	引擎生命值
+0x209DB0	Petroltank Health	油箱耐久
+0x209DC8	Body Health	身體生命
+0x209DD8	Set Values	設定數值
+0x209F10	Commercial	商用
+0x209F20	Compacts	小型車
+0x209F2C	Coupes	雙門
+0x209F50	Helicopters	直升機
+0x209F60	Industrial	工業
+0x209F70	Military	軍用
+0x209F90	Off-Road	越野
+0x209F9C	Planes	飛機
+0x209FA4	Sedans	轎車
+0x209FB0	Service	服務
+0x209FB8	Sports	跑車
+0x209FC0	Sports Classic	經典跑車
+0x209FD0	Super	超跑
+0x209FD8	SUVs	休旅
+0x209FE0	Trailers	拖車
+0x209FEC	Trains	火車
+0x209FF8	Utitity	工具
+0x20A000	Vans	廂型
+0x20A008	Random Vehicle	隨機載具
+0x20A018	Warp Player Into Vehicle	傳送玩家入車
+0x20A038	Vehicles sorted by Model Name	載具依模型名排序
+0x20A058	Spawn Vehicle By Model Name	依模型名生成載具
+0x20A110	Shutzu Jetmax	舒茲快艇
+0x20A820	police	警察
+0x20A840	police2	警察2
+0x20A860	police3	警察3
+0x20A880	police4	警察4
+0x20A9C8	Buzzard Attack Chopper	禿鷹攻擊機
+0x20AAE8	skylift	吊車
+0x20AB10	Buckingham Swift Deluxe	白金漢豪華
+0x20C0E8	peyote	仙人
+0x20C7E0	trailers	拖車
+0x20C800	trailers2	拖車2
+0x20C820	trailers3	拖車3
+0x20CF80	Cars and Vans	轎車廂型
+0x20CF90	Planes and Helicopters	飛機與直升機
+0x20CFA8	Trains and Trailers	火車與拖車
+0x20F028	Pistol	手槍
+0x20F180	Grenade	手雷
+0x20F220	Molotov	燒瓶
+0x20F578	Main Menu	主菜單
+0x20F588	Vehicle Options	載具選項
+0x20F598	Bodyguard/Ped Spawning	保鏢/路人生成
+0x20F5B0	Vehicle Spawning	載具生成
+0x20F5C8	Mission Help	任務幫助
+0x20F5D8	Model Spawning	模型生成
+0x20F5E8	Object Spawning	物體生成
+0x20F5F8	Teleporting	傳送
+0x20F608	Teleporting Save	傳送存檔
+0x20F61C	Time	時間
+0x20F628	Weapons	武器
+0x20F630	Weather	天氣
+0x20F6A0	Snow 	下雪
+0x20F6A8	Ghost White	鬼白
+0x20F6B8	White Smoke	白煙
+0x20F6C8	Gainsboro	灰白
+0x20F6D8	Floral White	花白
+0x20F6E8	Old Lace	米白
+0x20F6F4	Linen	亞麻
+0x20F700	Antique White	古白
+0x20F710	Papaya Whip	木瓜白
+0x20F720	Blanched Almond	杏仁白
+0x20F730	Bisque	乳白
+0x20F738	Peach Puff	蜜桃
+0x20F748	Navajo White	納瓦白
+0x20F758	Moccasin	鹿皮
+0x20F768	Cornsilk	米黃
+0x20F774	Ivory	象牙
+0x20F780	Lemon Chiffon	檸檬黃
+0x20F790	Seashell	貝白
+0x20F7A0	Honeydew	蜜瓜
+0x20F7B0	Mint Cream	薄荷白
+0x20F7BC	Azure	蔚藍
+0x20F7C8	Alice Blue	愛麗絲藍
+0x20F7D8	Lavender	薰衣草
+0x20F7E8	Lavender Blush	淡粉紫
+0x20F7F8	Misty Rose	霧玫瑰
+0x20F808	Dark Slate Gray	暗石灰
+0x20F818	Dim Grey	灰暗
+0x20F828	Slate Grey	石板灰
+0x20F838	Light Slate Gray	淺石灰
+0x20F84C	Grey	灰
+0x20F858	Navy Blue	海軍藍
+0x20F868	Cornflower Blue	矢菊藍
+0x20F878	Dark Slate Blue	暗石藍
+0x20F888	Medium Slate Blue	中石藍
+0x20F8A0	Light SlateBlue	淺石藍
+0x20F8B0	Medium Blue	中藍
+0x20F8BC	Blue 	藍
+0x20F8C8	Dodger Blue	道奇藍
+0x20F8D8	Deep Sky Blue	深天藍
+0x20F8E8	Sky Blue	天藍
+0x20F8F8	Light Sky Blue	淺天藍
+0x20F908	Steel Blue	鋼藍
+0x20F918	Light Steel Blue	淺鋼藍
+0x20F930	Powder Blue	粉藍
+0x20F940	Pale Turquoise	淡青綠
+0x20F950	Dark Turquoise	暗青綠
+0x20F960	Medium Turquoise	中青綠
+0x20F978	Turquoise	青綠
+0x20F984	Cyan 	青
+0x20F990	Light Cyan	淺青
+0x20F9A0	Cadet Blue	灰藍
+0x20F9B0	Medium Aquamarine	中藍綠
+0x20F9C8	Aquamarine	碧藍
+0x20F9D8	Dark Olive Green	暗橄欖綠
+0x20F9F0	Dark Sea Green	暗海綠
+0x20FA00	Medium Sea Green	中海綠
+0x20FA18	Light Sea Green	淺海綠
+0x20FA28	Pale Green	淡綠
+0x20FA38	Spring Green	春綠
+0x20FA48	Lawn Green	草綠
+0x20FA58	Chartreuse	黃綠
+0x20FA68	Med Spring Green	中春綠
+0x20FA80	Green Yellow	黃綠
+0x20FA90	Yellow Green	黃綠
+0x20FAA0	Dark Khaki	暗卡其
+0x20FAB0	Pale Goldenrod	淡金黃
+0x20FAC0	Lt Goldenrod Yellow	淺金黃
+0x20FAD8	Light Yellow	淺黃
+0x20FAE8	Gold 	金
+0x20FAF0	Light Goldenrod	淺金黃
+0x20FB00	Goldenrod	金黃
+0x20FB10	Dark Goldenrod	暗金黃
+0x20FB20	Rosy Brown	玫瑰褐
+0x20FB30	Indian Red	印度紅
+0x20FB3C	Sienna	赭石
+0x20FB44	Peru 	秘魯棕
+0x20FB50	Burlywood	沙棕
+0x20FB5C	Beige	米色
+0x20FB64	Wheat	麥黃
+0x20FB6C	Tan 	棕
+0x20FB78	Chocolate	巧棕
+0x20FB88	Firebrick	磚紅
+0x20FB98	Dark Salmon	暗鮭
+0x20FBA4	Salmon	鮭紅
+0x20FBB0	Light Salmon	淺鮭
+0x20FBC0	Dark Orange	暗橙
+0x20FBCC	Coral	珊瑚
+0x20FBD8	Light Coral	淺珊瑚
+0x20FBE4	Tomato	番茄
+0x20FBF0	Orange Red	橙紅
+0x20FBFC	Red 	紅
+0x20FC08	Deep Pink	深粉
+0x20FC14	Pink 	粉
+0x20FC20	Light Pink	淺粉
+0x20FC30	Pale Violet Red	淡紫紅
+0x20FC40	Maroon	栗紅
+0x20FC48	Medium Violet Red	中紫紅
+0x20FC60	Violet Red	紫紅
+0x20FC70	Magenta	洋紅
+0x20FC78	Violet	紫
+0x20FC80	Plum 	梅紫
+0x20FC88	Orchid	蘭紫
+0x20FC90	Medium Orchid	中蘭
+0x20FCA0	Dark Orchid	暗蘭
+0x20FCB0	Dark Violet	暗紫
+0x20FCC0	Blue Violet	藍紫
+0x20FCCC	Purple	紫
+0x20FCD8	Medium Purple	中紫
+0x20FCE8	Thistle	薊紫
+0x20FCF0	Snow1	下雪1
+0x20FCF8	Snow2	下雪2
+0x20FD00	Snow3	下雪3
+0x20FD08	Snow4	下雪4
+0x20FD10	Seashell1	貝白1
+0x20FD20	Seashell2	貝白2
+0x20FD30	Seashell3	貝白3
+0x20FD40	Seashell4	貝白4
+0x20FD50	Antique White1	古白1
+0x20FD60	Antique White2	古白2
+0x20FD70	Antique White3	古白3
+0x20FD80	Antique White4	古白4
+0x20FD90	Bisque1	乳白1
+0x20FD98	Bisque2	乳白2
+0x20FDA0	Bisque3	乳白3
+0x20FDA8	Bisque4	乳白4
+0x20FDB0	Peach Puff1	蜜桃1
+0x20FDC0	Peach Puff2	蜜桃2
+0x20FDD0	Peach Puff3	蜜桃3
+0x20FDE0	Peach Puff4	蜜桃4
+0x20FDF0	Navajo White1	納瓦白1
+0x20FE00	Navajo White2	納瓦白2
+0x20FE10	Navajo White3	納瓦白3
+0x20FE20	Navajo White4	納瓦白4
+0x20FE30	Lemon Chiffon1	檸檬黃1
+0x20FE40	Lemon Chiffon2	檸檬黃2
+0x20FE50	Lemon Chiffon3	檸檬黃3
+0x20FE60	Lemon Chiffon4	檸檬黃4
+0x20FE70	Cornsilk1	米黃1
+0x20FE80	Cornsilk2	米黃2
+0x20FE90	Cornsilk3	米黃3
+0x20FEA0	Cornsilk4	米黃4
+0x20FEAC	Ivory1	象牙1
+0x20FEB4	Ivory2	象牙2
+0x20FEBC	Ivory3	象牙3
+0x20FEC4	Ivory4	象牙4
+0x20FED0	Honeydew1	蜜瓜1
+0x20FEE0	Honeydew2	蜜瓜2
+0x20FEF0	Honeydew3	蜜瓜3
+0x20FF00	Honeydew4	蜜瓜4
+0x20FF10	Lavender Blush1	淡粉紫1
+0x20FF20	Lavender Blush2	淡粉紫2
+0x20FF30	Lavender Blush3	淡粉紫3
+0x20FF40	Lavender Blush4	淡粉紫4
+0x20FF50	Misty Rose1	霧玫瑰1
+0x20FF60	Misty Rose2	霧玫瑰2
+0x20FF70	Misty Rose3	霧玫瑰3
+0x20FF80	Misty Rose4	霧玫瑰4
+0x20FF8C	Azure1	蔚藍1
+0x20FF94	Azure2	蔚藍2
+0x20FF9C	Azure3	蔚藍3
+0x20FFA4	Azure4	蔚藍4
+0x20FFB0	Slate Blue1	石板藍1
+0x20FFC0	Slate Blue2	石板藍2
+0x20FFD0	Slate Blue3	石板藍3
+0x20FFE0	Slate Blue4	石板藍4
+0x20FFF0	Royal Blue1	寶藍1
+0x210000	Royal Blue2	寶藍2
+0x210010	Royal Blue3	寶藍3
+0x210020	Royal Blue4	寶藍4
+0x21002C	Blue1	藍1
+0x210034	Blue2	藍2
+0x21003C	Blue3	藍3
+0x210044	Blue4	藍4
+0x210050	Dodger Blue1	道奇藍1
+0x210060	Dodger Blue2	道奇藍2
+0x210070	Dodger Blue3	道奇藍3
+0x210080	Dodger Blue4	道奇藍4
+0x210090	Steel Blue1	鋼藍1
+0x2100A0	Steel Blue2	鋼藍2
+0x2100B0	Steel Blue3	鋼藍3
+0x2100C0	Steel Blue4	鋼藍4
+0x2100D0	Deep Sky Blue1	深天藍1
+0x2100E0	Deep Sky Blue2	深天藍2
+0x2100F0	Deep Sky Blue3	深天藍3
+0x210100	Deep SkyBlue 4	深天藍4
+0x210110	Sky Blue1	天藍1
+0x210120	Sky Blue2	天藍2
+0x210130	Sky Blue3	天藍3
+0x210140	Sky Blue4	天藍4
+0x210150	Light Sky Blue1	淺天藍1
+0x210160	Light Sky Blue2	淺天藍2
+0x210170	Light Sky Blue3	淺天藍3
+0x210180	Light Sky Blue4	淺天藍4
+0x210190	Slate Gray1	石板灰1
+0x2101A0	Slate Gray2	石板灰2
+0x2101B0	Slate Gray3	石板灰3
+0x2101C0	Slate Gray4	石板灰4
+0x2101D0	Light Steel Blue1	淺鋼藍1
+0x2101E8	Light Steel Blue2	淺鋼藍2
+0x210200	Light Steel Blue3	淺鋼藍3
+0x210218	Light Steel Blue4	淺鋼藍4
+0x210230	Light Blue1	淺藍1
+0x210240	Light Blue2	淺藍2
+0x210250	Light Blue3	淺藍3
+0x210260	Light Blue4	淺藍4
+0x210270	Light Cyan1	淺青1
+0x210280	Light Cyan2	淺青2
+0x210290	Light Cyan3	淺青3
+0x2102A0	Light Cyan4	淺青4
+0x2102B0	Pale Turquoise1	淡青綠1
+0x2102C0	Pale Turquoise2	淡青綠2
+0x2102D0	Pale Turquoise3	淡青綠3
+0x2102E0	Pale Turquoise4	淡青綠4
+0x2102F0	Cadet Blue1	灰藍1
+0x210300	Cadet Blue2	灰藍2
+0x210310	Cadet Blue3	灰藍3
+0x210320	Cadet Blue4	灰藍4
+0x210330	Turquoise1	青綠1
+0x210340	Turquoise2	青綠2
+0x210350	Turquoise3	青綠3
+0x210360	Turquoise4	青綠4
+0x21036C	Cyan1	青1
+0x210374	Cyan2	青2
+0x21037C	Cyan3	青3
+0x210384	Cyan4	青4
+0x210390	Dark Slate Gray1	暗石灰1
+0x2103A8	Dark Slate Gray2	暗石灰2
+0x2103C0	Dark Slate Gray3	暗石灰3
+0x2103D8	Dark Slate Gray4	暗石灰4
+0x2103F0	Aquamarine1	碧藍1
+0x210400	Aquamarine2	碧藍2
+0x210410	Aquamarine3	碧藍3
+0x210420	Aquamarine4	碧藍4
+0x210430	Dark Sea Green1	暗海綠1
+0x210440	Dark Sea Green2	暗海綠2
+0x210450	Dark Sea Green3	暗海綠3
+0x210460	DarkSeaGreen4	暗海綠4
+0x210470	Sea Green1	海綠1
+0x210480	Sea Green2	海綠2
+0x210490	Sea Green3	海綠3
+0x2104A0	Sea Green4	海綠4
+0x2104B0	Pale Green1	淡綠1
+0x2104C0	Pale Green2	淡綠2
+0x2104D0	Pale Green3	淡綠3
+0x2104E0	Pale Green4	淡綠4
+0x2104F0	Spring Green1	春綠1
+0x210500	Spring Green2	春綠2
+0x210510	Spring Green3	春綠3
+0x210520	Spring Green4	春綠4
+0x210530	Green1	綠1
+0x210538	Green2	綠2
+0x210540	Green3	綠3
+0x210548	Green4	綠4
+0x210550	Chartreuse1	黃綠1
+0x210560	Chartreuse2	黃綠2
+0x210570	Chartreuse3	黃綠3
+0x210580	Chartreuse4	黃綠4
+0x210590	Olive Drab1	橄欖褐1
+0x2105A0	Olive Drab2	橄欖褐2
+0x2105B0	Olive Drab3	橄欖褐3
+0x2105C0	Olive Drab4	橄欖褐4
+0x2105D0	Dark Olive Green1	暗橄欖綠1
+0x2105E8	Dark Olive Green2	暗橄欖綠2
+0x210600	Dark Olive Green3	暗橄欖綠3
+0x210618	Dark Olive Green4	暗橄欖綠4
+0x21062C	Khaki1	卡其1
+0x210634	Khaki2	卡其2
+0x21063C	Khaki3	卡其3
+0x210644	Khaki4	卡其4
+0x210650	Light Goldenrod1	淺金黃1
+0x210668	Light Goldenrod2	淺金黃2
+0x210680	Light Goldenrod3	淺金黃3
+0x210698	Light Goldenrod4	淺金黃4
+0x2106B0	Light Yellow1	淺黃1
+0x2106C0	Light Yellow2	淺黃2
+0x2106D0	LightYellow3	淺黃3
+0x2106E0	Light Yellow4	淺黃4
+0x2106F0	Yellow1	黃1
+0x2106F8	Yellow2	黃2
+0x210700	Yellow3	黃3
+0x210708	Yellow4	黃4
+0x210710	Gold1	金1
+0x210718	Gold2	金2
+0x210720	Gold3	金3
+0x210728	Gold4	金4
+0x210730	Goldenrod1	金黃1
+0x210740	Goldenrod2	金黃2
+0x210750	Goldenrod3	金黃3
+0x210760	Goldenrod4	金黃4
+0x210770	Dark Goldenrod1	暗金黃1
+0x210780	Dark Goldenrod2	暗金黃2
+0x210790	Dark Goldenrod3	暗金黃3
+0x2107A0	Dark Goldenrod4	暗金黃4
+0x2107B0	Rosy Brown1	玫瑰褐1
+0x2107C0	Rosy Brown2	玫瑰褐2
+0x2107D0	Rosy Brown3	玫瑰褐3
+0x2107E0	Rosy Brown4	玫瑰褐4
+0x2107F0	Indian Red1	印度紅1
+0x210800	Indian Red2	印度紅2
+0x210810	Indian Red3	印度紅3
+0x210820	Indian Red4	印度紅4
+0x210830	Sienna1	赭石1
+0x210838	Sienna2	赭石2
+0x210840	Sienna3	赭石3
+0x210848	Sienna4	赭石4
+0x210850	Burlywood1	沙棕1
+0x210860	Burlywood2	沙棕2
+0x210870	Burlywood3	沙棕3
+0x210880	Burlywood4	沙棕4
+0x21088C	Wheat1	麥黃1
+0x210894	Wheat2	麥黃2
+0x21089C	Wheat3	麥黃3
+0x2108A4	Wheat4	麥黃4
+0x2108AC	Tan1 	棕1
+0x2108B4	Tan2 	棕2
+0x2108BC	Tan3 	棕3
+0x2108C4	Tan4 	棕4
+0x2108D0	Chocolate1	巧棕1
+0x2108E0	Chocolate2	巧棕2
+0x2108F0	Chocolate3	巧棕3
+0x210900	Chocolate4	巧棕4
+0x210910	Firebrick1	磚紅1
+0x210920	Firebrick2	磚紅2
+0x210930	Firebrick3	磚紅3
+0x210940	Firebrick4	磚紅4
+0x21094C	Brown1	棕1
+0x210954	Brown2	棕2
+0x21095C	Brown3	棕3
+0x210964	Brown4	棕4
+0x210970	Salmon1	鮭紅1
+0x210978	Salmon2	鮭紅2
+0x210980	Salmon3	鮭紅3
+0x210988	Salmon4	鮭紅4
+0x210990	Light Salmon1	淺鮭1
+0x2109A0	Light Salmon2	淺鮭2
+0x2109B0	Light Salmon3	淺鮭3
+0x2109C0	Light Salmon4	淺鮭4
+0x2109D0	Orange1	橙1
+0x2109D8	Orange2	橙2
+0x2109E0	Orange3	橙3
+0x2109E8	Orange4	橙4
+0x2109F0	Dark Orange1	暗橙1
+0x210A00	Dark Orange2	暗橙2
+0x210A10	Dark Orange3	暗橙3
+0x210A20	Dark Orange4	暗橙4
+0x210A30	Coral1	珊瑚1
+0x210A38	Coral2	珊瑚2
+0x210A40	Coral3	珊瑚3
+0x210A48	Coral4	珊瑚4
+0x210A50	Tomato1	番茄1
+0x210A58	Tomato2	番茄2
+0x210A60	Tomato3	番茄3
+0x210A68	Tomato4	番茄4
+0x210A70	Orange Red1	橙紅1
+0x210A80	Orange Red2	橙紅2
+0x210A90	Orange Red3	橙紅3
+0x210AA0	Orange Red4	橙紅4
+0x210AAC	Red1 	紅1
+0x210AB4	Red2 	紅2
+0x210ABC	Red3 	紅3
+0x210AC4	Red4 	紅4
+0x210AD0	Deep Pink1	深粉1
+0x210AE0	Deep Pink2	深粉2
+0x210AF0	Deep Pink3	深粉3
+0x210B00	Deep Pink4	深粉4
+0x210B10	Hot Pink1	桃紅1
+0x210B20	Hot Pink2	桃紅2
+0x210B30	Hot Pink3	桃紅3
+0x210B40	Hot Pink4	桃紅4
+0x210B4C	Pink1	粉1
+0x210B54	Pink2	粉2
+0x210B5C	Pink3	粉3
+0x210B64	Pink4	粉4
+0x210B70	Light Pink1	淺粉1
+0x210B80	Light Pink2	淺粉2
+0x210B90	Light Pink3	淺粉3
+0x210BA0	Light Pink4	淺粉4
+0x210BB0	Pale Violet Red1	淡紫紅1
+0x210BC8	Pale Violet Red2	淡紫紅2
+0x210BE0	Pale Violet Red3	淡紫紅3
+0x210BF8	Pale Violet Red4	淡紫紅4
+0x210C10	Maroon1	栗紅1
+0x210C18	Maroon2	栗紅2
+0x210C20	Maroon3	栗紅3
+0x210C28	Maroon4	栗紅4
+0x210C30	Violet Red1	紫紅1
+0x210C40	Violet Red2	紫紅2
+0x210C50	Violet Red3	紫紅3
+0x210C60	Violet Red4	紫紅4
+0x210C70	Magenta1	洋紅1
+0x210C80	Magenta2	洋紅2
+0x210C90	Magenta3	洋紅3
+0x210CA0	Magenta4	洋紅4
+0x210CB0	Orchid1	蘭紫1
+0x210CB8	Orchid2	蘭紫2
+0x210CC0	Orchid3	蘭紫3
+0x210CC8	Orchid4	蘭紫4
+0x210CD0	Plum1	梅紫1
+0x210CD8	Plum2	梅紫2
+0x210CE0	Plum3	梅紫3
+0x210CE8	Plum4	梅紫4
+0x210CF0	Medium Orchid1	中蘭1
+0x210D00	Medium Orchid2	中蘭2
+0x210D10	Medium Orchid3	中蘭3
+0x210D20	Medium Orchid4	中蘭4
+0x210D30	Dark Orchid1	暗蘭1
+0x210D40	Dark Orchid2	暗蘭2
+0x210D50	Dark Orchid3	暗蘭3
+0x210D60	Dark Orchid4	暗蘭4
+0x210D70	Purple1	紫1
+0x210D78	Purple2	紫2
+0x210D80	Purple3	紫3
+0x210D88	Purple4	紫4
+0x210D90	Medium Purple1	中紫1
+0x210DA0	Medium Purple2	中紫2
+0x210DB0	Medium Purple3	中紫3
+0x210DC0	Medium Purple4	中紫4
+0x210DD0	Thistle1	薊紫1
+0x210DE0	Thistle2	薊紫2
+0x210DF0	Thistle3	薊紫3
+0x210E00	Thistle4	薊紫4
+0x210E0C	grey11	灰11
+0x210E14	grey21	灰21
+0x210E1C	grey31	灰31
+0x210E24	grey41	灰41
+0x210E2C	grey51	灰51
+0x210E34	grey61	灰61
+0x210E3C	grey71	灰71
+0x210E44	grey81	灰81
+0x210E4C	grey91	灰91
+0x210E58	Dark Grey	暗灰
+0x210E68	Dark Cyan	暗青
+0x210E78	Dark Magenta	暗洋紅
+0x210E88	LightGreen	淺綠
+0x210EB0	Teleport to First Valid Destination Marker	傳送到首個有效標記
+0x210EE0	Teleport to Spawned Cars	傳送到已生成車輛
+0x210F00	Blow Up Cop Cars	炸毀警察車輛
+0x210F18	Kill Ped attached to Valid Destination Marker	殺路人(有效標記)
+0x210F48	Kill Enemy Ped attached to Valid Destination Marker	殺敵路人(有效標記)
+0x210F80	Blow Up Car attached to Valid Destination Marker	炸車(有效標記)
+0x210FB8	Add Waypoint to Mission Marker	任務標記新增導航點
+0x210FD8	Cut Scenes	過場動畫
+0x21100C	Player	玩家
+0x211378	Spawn Michael	生成麥可
+0x211388	Spawn Franklin	生成富蘭
+0x211398	Spawn Trevor	生成崔佛
+0x2113A8	Spawn Story Line Peds 1	生成主線角色1
+0x2113C0	Spawn Story Line Peds 2	生成主線角色2
+0x2113D8	Spawn Animals	生成動物
+0x2113E8	Spawn CS Models 1	生成CS模型1
+0x211400	Spawn CS Models 2	生成CS模型2
+0x211418	Spawn CSB Models 	生成CSB模型
+0x211430	Spawn MP Peds 	生成MP路人
+0x211440	Spawn Female A Peds 1	生成女A路人1
+0x211458	Spawn Female A Peds 2	生成女A路人2
+0x211470	Spawn Male A Peds 1	生成男A路人1
+0x211488	Spawn Male A Peds 2	生成男A路人2
+0x2114A0	Spawn Male A Peds 3	生成男A路人3
+0x2114B8	Spawn G Peds	生成G路人
+0x2114C8	Spawn S Peds 1	生成S路人1
+0x2114D8	Spawn S Peds 2	生成S路人2
+0x2114E8	Spawn U Peds 1	生成U路人1
+0x2114F8	Spawn U Peds 2	生成U路人2
+0x211508	Spawn Ped By Model Name	依模型名生成
+0x211520	Reset Ped to Default	路人恢復預設
+0x211538	Randomize Ped	隨機路人
+0x211548	Clothes Menu	服裝選單
+0x211558	Animation Menu	動作選單
+0x211568	Scenario Menu	場景選單
+0x211578	Walk Style Menu	走路姿勢
+0x211588	Voice Menu	聲音
+0x21161C	Head	頭部
+0x211624	Beard	鬍子
+0x21162C	Hair	頭髮
+0x211634	Upper	上身
+0x21163C	Lower	下身
+0x211644	Hands	手部
+0x21164C	Shoes	鞋子
+0x211654	Teeth	牙齒
+0x211660	Accessory	配件
+0x211670	Accessory 2	配件2
+0x21167C	Badges	徽章
+0x211688	Shirt Overlay	上衣貼圖
+0x211698	Hats	帽子
+0x2116A0	Glases	眼鏡
+0x2116A8	Misc	其他
+0x2116B0	Helmet	頭盔
+0x2116B8	Remove Helmet	脫安全帽
+0x2116C8	Clothes Load/Save Menu	服裝儲存選單
+0x211A18	Animation Menu 	動作選單
+0x211A40	Animations 1	動作1
+0x211A50	Animations 2	動作2
+0x211A60	Animations 3	動作3
+0x211A70	Animations 4	動作4
+0x211A80	Animations 5	動作5
+0x211A90	Animations 6	動作6
+0x211AA0	Animations 7	動作7
+0x211AB0	Animations 8	動作8
+0x211AC0	Animations 9	動作9
+0x211AD0	Animations 10	動作10
+0x211AE0	Animations 11	動作11
+0x211AF0	Animations 12	動作12
+0x211B00	Loop Animation	循環動作
+0x211B10	Cancel Current Animation	取消當前動作
+0x211B30	Animation Load/Save Menu	動作儲存選單
+0x211C20	Save Last Played Animation to Slot 1	最近播放動作存到欄位1
+0x211C48	Save Last Played Animation to Slot 2	最近播放動作存到欄位2
+0x211C70	Save Last Played Animation to Slot 3	最近播放動作存到欄位3
+0x211C98	Save Last Played Animation to Slot 4	最近播放動作存到欄位4
+0x211CC0	Save Last Played Animation to Slot 5	最近播放動作存到欄位5
+0x211CE8	Save Last Played Animation to Slot 6	最近播放動作存到欄位6
+0x211D10	Save Last Played Animation to Slot 7	最近播放動作存到欄位7
+0x211D38	Save Last Played Animation to Slot 8	最近播放動作存到欄位8
+0x211D60	Save Last Played Animation to Slot 9	最近播放動作存到欄位9
+0x211D88	Save Last Played Animation to Slot 10	最近播放動作存到欄位10
+0x2120A8	Cancel Scenario	取消場景
+0x2120D0	Select Walk Style	選擇走路姿勢
+0x2120E8	Reset Walk Style	重置走路姿勢
+0x214A80	clowns	小丑
+0x216874	josh	喬許
+0x216D18	arrested	被捕
+0x216D50	bump	撞擊
+0x216DA4	dodge	閃避
+0x216DEC	fight	打架
+0x2171D0	reloading	換彈
+0x2172C8	shoot	射擊
+0x217778	Select Speech	選擇語音
+0x217788	Voices Full	全部語音
+0x217798	Voices Mini	迷你語音
+0x2177A8	Voices Story Line Peds	主線角色語音
+0x219D50	spiritsrow	烈酒櫃
+0x21EFF0	vodkarow	伏特加櫃
+0x21F018	winerow	酒櫃
+0x231FC8	Objects 1	物體1
+0x231FD8	Objects 2	物體2
+0x231FE8	Objects 3	物體3
+0x231FF8	Objects 4	物體4
+0x232008	Objects 5	物體5
+0x232018	Objects 6	物體6
+0x232028	Delete Last Spawned Object	刪除最近生成物體
+0x232048	Clone Last Spawned Object	複製最近生成物體
+0x232068	Move Last Spawned Object	移動最近物件
+0x232088	Last Spawned Object Invisible	最近生成物體隱形
+0x2320A8	Last Spawned Object Visible	最近物件(可見)
+0x2320C8	Last Spawned Object Dynamic	最近物件(動態)
+0x2320E8	Last Spawned Object Static	最近物件(靜態)
+0x232108	Edit Specific Object	編輯指定物件
+0x232120	Dynamic Objects	動態物件
+0x232158	Delete Last 500 Spawned Objects	刪除最近500物件
+0x232178	Object Load/Save Menu	物體儲存選單
+0x232190	Spawn Object by entering model hash or model name	輸入模型生成物件
+0x232208	Selected Object Invisible	已選物體隱形
+0x232228	Selected Object Visible	選定物件(可見)
+0x232240	Selected Object Dynamic	選定物件(動態)
+0x232258	Selected Object Static	選定物件(靜態)
+0x2324B0	Select Object Number	選物件編號
+0x2324C8	Delete Selected Object	刪除已選物體
+0x2324E0	Clone Selected Object	複製已選物體
+0x2324F8	Move Selected Object	移動選定物件
+0x232750	Save Last Spawned Object in Slot 1	最近生成物體存到欄位1
+0x232778	Save Last Spawned Object in Slot 2	最近生成物體存到欄位2
+0x2327A0	Save Last Spawned Object in Slot 3	最近生成物體存到欄位3
+0x2327C8	Save Last Spawned Object in Slot 4	最近生成物體存到欄位4
+0x2327F0	Save Last Spawned Object in Slot 5	最近生成物體存到欄位5
+0x232818	Save Last Spawned Object in Slot 6	最近生成物體存到欄位6
+0x232840	Save Last Spawned Object in Slot 7	最近生成物體存到欄位7
+0x232868	Save Last Spawned Object in Slot 8	最近生成物體存到欄位8
+0x232890	Save Last Spawned Object in Slot 9	最近生成物體存到欄位9
+0x2328B8	Save Last Spawned Object in Slot 10	最近生成物體存到欄位10
+0x232B40	Options Menu 1	設定選單1
+0x232B50	Always God Mode	永遠無敵
+0x232B60	Gravity On/Off 	重力開關
+0x232B70	Never Wanted   	永不通緝
+0x232B80	Clear Wanted Level	清除通緝
+0x232B98	Increase Wanted Level	提高通緝
+0x232BB0	Set/Freeze Wanted level	設定通緝
+0x232BC8	Go Through Doors	穿門而過
+0x232BE0	Cops don't Dispatch	警察不調度
+0x232BF8	Police Ignore Player	警察無視玩家
+0x232C10	Enable/Disable Clock	時鐘開關
+0x232C28	Speedometer KM/H	時速（公里）
+0x232C40	Speedometer MPH 	時速（英里）
+0x232C58	Player Visible  	玩家可見
+0x232C70	Mobile Radio    	隨身廣播
+0x232C88	Display Coordinates	顯示座標
+0x232CA0	Unlimited Ability	無限技能
+0x232CB8	Airbreak	空中移動
+0x232CC8	Airbreak Speed	空中速度
+0x232CD8	No Noise  	無聲
+0x232CE8	Fast Swim	快速游泳
+0x232CF8	Fast Run	快速奔跑
+0x232D08	Super Jump	超級跳躍
+0x232D18	Hide Hud and Radar	隱藏介面與雷達
+0x232D30	Add or Substract Money	增減金錢
+0x232D48	Add Money ($100.000)	加錢($100000)
+0x232D60	Clean Player Clothes	清洗玩家服裝
+0x232D78	Max Armor	護甲全滿
+0x232D88	Max Health	生命全滿
+0x232D98	No Peds	無人
+0x232DA0	No Cars	無車
+0x232DA8	Clear Object/Cars/Peds/Police	清除物件車輛路人警察
+0x232DC8	Set Player Alpha	設定玩家透明度
+0x232DE0	Player Drive Task Options	玩家駕駛任務選項
+0x232E00	About This Trainer	關於本修改器
+0x232E18	Always God Mode Enabled	永遠無敵已開啟
+0x232E30	Always God Mode Disabled	永遠無敵已關閉
+0x232E50	Gravity Disabled	重力已關閉
+0x232E68	Gravity Enabled	重力已開啟
+0x232E78	Never Wanted Enabled	永不通緝已開啟
+0x232E90	Never Wanted Disabled	永不通緝已關閉
+0x232EA8	Wanted Level Cleared	通緝已清除
+0x232EC0	Wanted Level Increased !	通緝等級已提高！
+0x232EE0	Wanted Level set to one	通緝等級設為1
+0x232EF8	Move forward through door	已穿過門
+0x232F18	Cops are not dispatched	警察不再調度
+0x232F30	Cops are dispatched	警察已調度
+0x232F48	Police Engage Player	警察會攻擊玩家
+0x232F60	Clock Enabled	時鐘已開啟
+0x232F70	Clock Disabled	時鐘已關閉
+0x232F80	Speedometer KM Enabled	公里時速已開啟
+0x232F98	Speedometer KM Disabled	公里時速已關閉
+0x232FB0	Speedometer MPH Enabled	英里時速已開啟
+0x232FC8	Speedometer MPH Disabled	英里時速已關閉
+0x232FE8	Mobile Radio Enabled	隨身廣播已開啟
+0x233000	Mobile Radio Disabled	隨身廣播已關閉
+0x233018	Display Coordinates Enabled	座標顯示已開啟
+0x233038	Display Coordinates Disabled	座標顯示已關閉
+0x233058	Unlimited Ability Enabled	無限技能已開啟
+0x233078	Unlimited Ability Disabled	無限技能已關閉
+0x233098	Airbreak Enabled	空中移動已開啟
+0x2330B0	Airbreak Disabled	空中移動已關閉
+0x2330C8	No Noise Enabled	無聲已開啟
+0x2330E0	No Noise Disabled	無聲已關閉
+0x2330F8	Fast Swim Enabled	快速游泳已開啟
+0x233110	Fast Swim Disabled	快速游泳已關閉
+0x233128	Fast Run Enabled	快速奔跑已開啟
+0x233140	Fast Run Disabled	快速奔跑已關閉
+0x233158	Super Jump Enabled	超級跳躍已開啟
+0x233170	Super Jump Disabled	超級跳躍已關閉
+0x233188	Hide Hud and Radar Enabled	隱藏介面雷達已開啟
+0x2331A8	Hide Hud and Radar Disabled	隱藏介面雷達已關閉
+0x2331F8	Money in the Bank, $100.000.	銀行存款 $100000
+0x233218	Player Clothes Cleaned	玩家服裝已清洗
+0x233280	Options Menu 2	設定選單2
+0x233290	Heatlh Display	生命顯示
+0x2332A0	Set Menu Colors / Font	選單顏色字體
+0x2332B8	Ingame Messages Options	遊戲訊息選項
+0x2332D0	Keybindings	按鍵設定
+0x2332E0	Set Nearest Ped On Fire	點燃最近路人
+0x2332F8	Ragdoll Nearest Ped	最近路人軟倒
+0x233310	Freeze Nearest Ped	凍結最近路人
+0x233328	Unfreeze Nearest Ped	解凍最近路人
+0x233340	Freeze Nearest Vehicle	凍結最近載具
+0x233358	Unfreeze Nearest Vehicle	解凍最近載具
+0x233378	Freeze Player	凍結玩家
+0x233388	UnFreeze Player	解凍玩家
+0x233398	Simple Ragdoll	簡易軟倒
+0x2333A8	Switch Back to Animated	切回動態
+0x2333C0	Player Ragdoll	玩家軟倒
+0x2333D0	Player Gravity	玩家重力
+0x2333E0	Player Collison	玩家碰撞
+0x2333F0	Everyone Ignore Player	全部無視玩家
+0x233408	Explode Nearest Car	引爆最近車輛
+0x233420	Player Suicide	玩家自殺
+0x233430	Special God Mode	特殊無敵
+0x233448	Gravity Gun	重力槍
+0x233458	Gravity Gun Force	重力槍力度
+0x233470	Controller Support	手把支援
+0x233488	Player Wet	玩家濕身
+0x233498	Player Dry	玩家乾燥
+0x2334A8	Save Settings to trainerv.ini	儲存設定到ini
+0x2334C8	Health Display Enabled	生命顯示已開啟
+0x233920	Set Menu Colors/Font	選單顏色字體
+0x233938	Menu Color	選單顏色
+0x233948	Menu Highlight Color	選單高亮色
+0x233960	Menu Font	選單字體
+0x233970	Rect Color	底板顏色
+0x233980	Rect Opacity	底板透明
+0x233990	Display Rect	顯示底板
+0x2339A0	Menu Sound	選單音效
+0x2339B0	No Menu Wrap	不循環
+0x234030	Clear Area	清除區域
+0x234040	Clear Area Of Cars	清除區域的車輛
+0x234058	Clear Area Of Peds	清除區域的路人
+0x234070	Clear Area Of Objects	清除區域的物體
+0x234088	Clear Area Of Cops	清除區域的警察
+0x2340A0	Set Radius for Area	設定區域半徑
+0x2340C8	Player Alpha	玩家透明度
+0x234120	Stop Driving Whey Waypoint is Reached	到導航點就停車
+0x234148	Enable Drive Task for Player	開啟駕駛任務為玩家
+0x234260	AirBreak Forward Speed	空中前進速度
+0x234278	AirBreak Upward Speed	空中上升速度
+0x234290	Gravity Gun X Force	重力槍X軸力
+0x2342A8	Gravity Gun Y Force	重力槍Y軸力
+0x2342C0	Gravity Gun Z Force	重力槍Z軸力
+0x2342D8	Ingame Messages	遊戲訊息
+0x2342E8	Messages above MiniMap	小地圖上方訊息
+0x234300	Message Duration	訊息顯示時長
+0x234BFC	Josh1	喬許1
+0x234C04	Josh2	喬許2
+0x234C0C	Josh3	喬許3
+0x234C14	Josh4	喬許4
+0x235408	wardrobe2	衣櫃2
+0x235418	wardrobe3	衣櫃3
+0x235428	wardrobe4	衣櫃4
+0x235438	wardrobe5	衣櫃5
+0x235448	wardrobe6	衣櫃6
+0x235458	wardrobe8	衣櫃8
+0x235870	ShopRobberies1	搶店1
+0x235880	ShopRobberies2	搶店2
+0x235890	ShopRobberies3	搶店3
+0x2358A0	ShopRobberies4	搶店4
+0x2358B0	ShopRobberies5	搶店5
+0x2358C0	ShopRobberies6	搶店6
+0x2358D0	ShopRobberies7	搶店7
+0x2358E0	ShopRobberies8	搶店8
+0x2358F0	ShopRobberies9	搶店9
+0x235900	ShopRobberies10	搶店10
+0x235910	ShopRobberies11	搶店11
+0x235920	ShopRobberies12	搶店12
+0x235930	ShopRobberies13	搶店13
+0x235940	ShopRobberies14	搶店14
+0x235950	ShopRobberies15	搶店15
+0x235960	ShopRobberies16	搶店16
+0x235970	ShopRobberies17	搶店17
+0x235980	ShopRobberies18	搶店18
+0x235990	ShopRobberies19	搶店19
+0x235A00	Save House Michael	儲存房(麥可)
+0x235A18	Save House Franklin	儲存房(富蘭克林)
+0x235A30	Save House Franklin 2	儲存房(富蘭)2
+0x235A48	Save House Trevor	儲存房(崔佛)
+0x235A60	Save House Trevor 2	儲存房(崔佛)2
+0x235A78	Save House Trevor 3	儲存房(崔佛)3
+0x235A90	Lake Vinewood	藤木湖
+0x235AA0	Vinewood Open-Air Theatre	藤木露天劇院
+0x235AC0	Sisyphus Open-Air Theatre	西西弗露天劇院
+0x235AE0	Vinewood Sign	藤木招牌
+0x235AF0	Vinewood Radio Tower	藤木電台塔
+0x235B08	Observatory	天文台
+0x235B18	Baytree Canyon View	灣樹谷景
+0x235B30	Los Santos View(Trevor Story)	洛聖都景(崔佛線)
+0x235B50	Parsons Rehabilitation Center	帕森斯康復中心
+0x235B70	Kortz Center(Michael Story)	科茨中心(麥可線)
+0x235B90	Chumash Beach Resort	楚馬什海灘
+0x235BA8	Mount Gordo Ghost(11 - 12pm)	戈多山鬼(11-12點)
+0x235BC8	Devin Weston Mansion	德文豪宅
+0x235BE0	Vineyard	葡萄園
+0x235BF0	Mineshaft(Blow the Door)	礦坑(炸門)
+0x235C10	Construction Site(Dirt track)	工地(泥地賽道)
+0x235C30	Hill Valley Church	山谷教堂
+0x235C48	Mirror Park Lake	鏡園湖
+0x235C60	Dam Site	水壩工地
+0x235C70	LS Goverment Facility	洛聖都政府大樓
+0x235C88	East LS Beachsite	東洛聖都海灘
+0x235CA0	Powerplant	發電廠
+0x235CB0	Hippie Camp	嬉皮營地
+0x235CC0	Plane Boneyard	飛機墳場
+0x235CD0	Alien Cult Camp	外星教營地
+0x235CE0	Lighthouse	燈塔
+0x235CF0	Altuist Cave	利他教洞穴
+0x235D00	Mount Gordo Top(Radio Tower)	戈多山頂(電塔)
+0x235D20	Camper(Mount Gordo)	露營車(戈多山)
+0x235D38	Weedfarm	大麻園
+0x235D48	Procopio Beach	普羅海灘
+0x235D58	Northern Beach	北灘
+0x235D68	Procopio Promenade	普羅科皮奧步道
+0x235D80	Cluckin Bell Factory(Festival Area)	克拉克工廠(節慶)
+0x235DA8	Altuist Outlook(Easteregg 7pm)	利他教觀景(7pm彩蛋)
+0x235DC8	Paleto Cove Sonar Dock	佩灣聲納碼頭
+0x235DE0	Paleto Cove Oceanview	佩立托灣海景
+0x235DF8	Army Base Air Tower(4 Stars)	軍營塔(4星)
+0x235E18	Beach Party	海灘派對
+0x235E28	Swamp Boathouse	沼澤船屋
+0x235E38	East Alamo View	東阿拉莫景
+0x235E48	Raton Canyon View	拉頓峽谷景
+0x235E60	Two Hoots Falls	雙呼瀑布
+0x235E70	ULSA University	ULSA大學
+0x235E80	Playboy Mansion	花花公子宅
+0x235E90	Cemetery	墓園
+0x235EA0	Richards Majestic Film Set	理查片場
+0x235EC0	Pleasure Pier	歡樂碼頭
+0x235ED0	Vespucci Promenade	維斯普奇步道
+0x235EE8	Vinewood Hills Overview	藤木山全景
+0x235F00	Ocean Cave(Dodo)	海蝕洞(渡渡鳥)
+0x235F18	South S.A.View(Mount Chilliad)	南聖安景(奇力山)
+0x235F38	Alamo Sea(Dancing Hippie)	阿拉莫海(跳舞嬉皮)
+0x235F58	Mile High Club(Crane)	雲端大廈(吊車)
+0x235F70	Elysian Island Overpass	極樂島立交
+0x235F88	Infinite 8 Killers House	無限8兇宅
+0x235FF4	chop1	狗1
+0x235FFC	chop2	狗2
+0x236004	chop3	狗3
+0x23600C	chop4	狗4
+0x236014	chop5	狗5
+0x236030	FairgroundHub	遊樂場
+0x236040	none1	無1
+0x236048	none2	無2
+0x236050	none3	無3
+0x236058	stripclub	脫衣舞
+0x236078	flyUnderBridges1	飛橋1
+0x236090	flyUnderBridges2	飛橋2
+0x2360A8	flyUnderBridges3	飛橋3
+0x2360C0	flyUnderBridges4	飛橋4
+0x2360D8	flyUnderBridges5	飛橋5
+0x2360F0	flyUnderBridges6	飛橋6
+0x236108	flyUnderBridges7	飛橋7
+0x236120	flyUnderBridges8	飛橋8
+0x236138	flyUnderBridges9	飛橋9
+0x236150	flyUnderBridges10	飛橋10
+0x236168	flyUnderBridges11	飛橋11
+0x236180	flyUnderBridges12	飛橋12
+0x236198	flyUnderBridges13	飛橋13
+0x2361B0	flyUnderBridges14	飛橋14
+0x2361C8	flyUnderBridges15	飛橋15
+0x2361E0	flyUnderBridges16	飛橋16
+0x2361F8	flyUnderBridges17	飛橋17
+0x236210	flyUnderBridges18	飛橋18
+0x236228	flyUnderBridges19	飛橋19
+0x236240	flyUnderBridges20	飛橋20
+0x236258	flyUnderBridges21	飛橋21
+0x236270	flyUnderBridges22	飛橋22
+0x236288	flyUnderBridges23	飛橋23
+0x2362A0	flyUnderBridges24	飛橋24
+0x2362B8	flyUnderBridges25	飛橋25
+0x2362D0	flyUnderBridges26	飛橋26
+0x2362E8	flyUnderBridges27	飛橋27
+0x236300	flyUnderBridges28	飛橋28
+0x236318	flyUnderBridges29	飛橋29
+0x236330	flyUnderBridges30	飛橋30
+0x236348	flyUnderBridges31	飛橋31
+0x236360	flyUnderBridges32	飛橋32
+0x236378	flyUnderBridges33	飛橋33
+0x236390	flyUnderBridges34	飛橋34
+0x2363A8	flyUnderBridges35	飛橋35
+0x2363C0	flyUnderBridges36	飛橋36
+0x2363D8	flyUnderBridges37	飛橋37
+0x2363F0	flyUnderBridges38	飛橋38
+0x236408	flyUnderBridges39	飛橋39
+0x236420	flyUnderBridges40	飛橋40
+0x236438	flyUnderBridges41	飛橋41
+0x236450	flyUnderBridges42	飛橋42
+0x236468	flyUnderBridges43	飛橋43
+0x236480	flyUnderBridges44	飛橋44
+0x236498	flyUnderBridges45	飛橋45
+0x2364B0	flyUnderBridges46	飛橋46
+0x2364C8	flyUnderBridges47	飛橋47
+0x2364E0	flyUnderBridges48	飛橋48
+0x2364F8	flyUnderBridges49	飛橋49
+0x236510	flyUnderBridges50	飛橋50
+0x236528	murderMystery1	兇案1
+0x236538	murderMystery2	兇案2
+0x236548	murderMystery3	兇案3
+0x236558	murderMystery4	兇案4
+0x236568	murderMystery5	兇案5
+0x236578	murderMystery6	兇案6
+0x236588	murderMystery7	兇案7
+0x236C70	spaceshippart1	太空零件1
+0x236C80	spaceshippart2	太空零件2
+0x236C90	spaceshippart3	太空零件3
+0x236CA0	spaceshippart4	太空零件4
+0x236CB0	spaceshippart5	太空零件5
+0x236CC0	spaceshippart6	太空零件6
+0x236CD0	spaceshippart7	太空零件7
+0x236CE0	spaceshippart8	太空零件8
+0x236CF0	spaceshippart9	太空零件9
+0x236D00	spaceshippart10	太空零件10
+0x236D10	spaceshippart11	太空零件11
+0x236D20	spaceshippart12	太空零件12
+0x236D30	spaceshippart13	太空零件13
+0x236D40	spaceshippart14	太空零件14
+0x236D50	spaceshippart15	太空零件15
+0x236D60	spaceshippart16	太空零件16
+0x236D70	spaceshippart17	太空零件17
+0x236D80	spaceshippart18	太空零件18
+0x236D90	spaceshippart19	太空零件19
+0x236DA0	spaceshippart20	太空零件20
+0x236DB0	spaceshippart21	太空零件21
+0x236DC0	spaceshippart22	太空零件22
+0x236DD0	spaceshippart23	太空零件23
+0x236DE0	spaceshippart24	太空零件24
+0x236DF0	spaceshippart25	太空零件25
+0x236E00	spaceshippart26	太空零件26
+0x236E10	spaceshippart27	太空零件27
+0x236E20	spaceshippart28	太空零件28
+0x236E30	spaceshippart29	太空零件29
+0x236E40	spaceshippart30	太空零件30
+0x236E50	spaceshippart31	太空零件31
+0x236E60	spaceshippart32	太空零件32
+0x236E70	spaceshippart33	太空零件33
+0x236E80	spaceshippart34	太空零件34
+0x236E90	spaceshippart35	太空零件35
+0x236EA0	spaceshippart36	太空零件36
+0x236EB0	spaceshippart37	太空零件37
+0x236EC0	spaceshippart38	太空零件38
+0x236ED0	spaceshippart39	太空零件39
+0x236EE0	spaceshippart40	太空零件40
+0x236EF0	spaceshippart41	太空零件41
+0x236F00	spaceshippart42	太空零件42
+0x236F10	spaceshippart43	太空零件43
+0x236F20	spaceshippart44	太空零件44
+0x236F30	spaceshippart45	太空零件45
+0x236F40	spaceshippart46	太空零件46
+0x236F50	spaceshippart47	太空零件47
+0x236F60	spaceshippart48	太空零件48
+0x236F70	spaceshippart49	太空零件49
+0x236F80	spaceshippart50	太空零件50
+0x237720	Grenade1	手雷1
+0x237730	Grenade2	手雷2
+0x237740	Grenade3	手雷3
+0x237750	Grenade4	手雷4
+0x2377C0	Pistol1	手槍1
+0x2377C8	Pistol2	手槍2
+0x2377D0	Pistol3	手槍3
+0x2377D8	Pistol4	手槍4
+0x2377E0	Pistol5	手槍5
+0x2377E8	Pistol6	手槍6
+0x2377F0	Pistol7	手槍7
+0x2377F8	Pistol8	手槍8
+0x237800	Pistol9	手槍9
+0x237808	Pistol10	手槍10
+0x237814	RPG1	筒1
+0x23781C	RPG2	筒2
+0x237824	RPG3	筒3
+0x2378BC	SMG1	槍1
+0x2378C4	SMG2	槍2
+0x2378CC	SMG3	槍3
+0x2378D4	SMG4	槍4
+0x2378DC	SMG5	槍5
+0x2378E4	SMG6	槍6
+0x237968	Pistol11	手槍11
+0x237978	Pistol12	手槍12
+0x237A50	Crowbar1	鐵撬1
+0x237A60	Crowbar2	鐵撬2
+0x237A70	Crowbar3	鐵撬3
+0x237A80	Crowbar4	鐵撬4
+0x237A90	Crowbar5	鐵撬5
+0x237AA0	Crowbar6	鐵撬6
+0x237AB0	Crowbar7	鐵撬7
+0x237AC0	Crowbar8	鐵撬8
+0x237AD0	Crowbar9	鐵撬9
+0x237AE0	Crowbar10	鐵撬10
+0x237AF0	Molotov1	燒瓶1
+0x237B00	Molotov2	燒瓶2
+0x237B10	Molotov3	燒瓶3
+0x237B20	Molotov4	燒瓶4
+0x237B30	Molotov5	燒瓶5
+0x237B40	Molotov6	燒瓶6
+0x237B50	Molotov7	燒瓶7
+0x237B60	Molotov8	燒瓶8
+0x237B70	Molotov9	燒瓶9
+0x237B80	Crowbar11	鐵撬11
+0x237BA0	Crowbar12	鐵撬12
+0x237BC0	Crowbar13	鐵撬13
+0x237BE0	Crowbar14	鐵撬14
+0x237C00	Crowbar15	鐵撬15
+0x237C50	Parachute1	降落傘1
+0x237C70	Parachute2	降落傘2
+0x238970	Weazel Plaza Apt 26	威瑟廣場公寓26
+0x238988	Weazel Plaza Apt 70	威瑟廣場公寓70
+0x2389A0	Richard Majestic Apt 4	理查大廈公寓4
+0x2389B8	Richard Majestic Apt 51	理查大廈公寓51
+0x2389D0	Tinsel Towers Apt 29	閃亮大廈公寓29
+0x2389E8	Tinsel Towers Apt 45	閃亮大廈公寓45
+0x238A00	Eclipse Towers Apt 31	日蝕大廈公寓31
+0x238A18	Eclipse Towers Apt 40	日蝕大廈公寓40
+0x238A60	Del Pero Apt 7	德爾佩羅7
+0x238A70	Del Pero Apt 20	德爾佩羅20
+0x238A80	LifeInvader Office	LifeInvader辦公室
+0x238A98	facelobbyfake	假門面
+0x238AA8	facelobby	門面大廳
+0x238AB8	FIB Office	FIB辦公室
+0x238AC8	FIBlobbyfake	FIB假胖子
+0x238AD8	FIBlobby	FIB胖子
+0x238AE4	Yaht	遊艇
+0x238AEC	smboat	小艇
+0x238AF8	Destroyed Hospital	廢棄醫院
+0x238B48	Broken Stilt House	破高腳屋
+0x238B78	Jewelry Store	珠寶店
+0x238B88	jewel2fake	假珠寶店
+0x238BC0	Morgue	太平
+0x238BD8	Cargo Ship	貨船
+0x238BE8	cargoship	貨輪
+0x238BF8	Sunken Cargo Ship	沉沒貨輪
+0x238C10	sunkcargoship	沉船
+0x238C20	O'Neil Ranch	歐尼爾牧場
+0x238C30	farm	農場
+0x238C48	farmint	農舍
+0x238C60	O'Neil Ranch, Burnt	歐尼爾牧場(焚毀)
+0x238CA0	Yankton Graveyard	揚克頓墓園
+0x238D00	Yankton Bank	揚克頓銀行
+0x238D10	Cluckin bell	克拉克貝爾
+0x238D80	Train Crash	火車撞擊
+0x238DC0	Ufo Zancudo	桑庫UFO
+0x238DE0	Ufo Desert	沙漠UFO
+0x238DF0	Underground parking	地下停車場
+0x238E08	Mug Shot Room	拍照室
+0x238E18	S.S Comedy Club	喜劇俱樂部
+0x238E28	Lester's House	萊斯特家
+0x238E38	Plane Crash	墜機現場
+0x238E60	Yaterian Car Dealership	亞特里車行
+0x238E80	Lester's Sweatshop	萊斯特工廠
+0x238EC0	Fame Or Shame (Maze Arena)	名利場(迷宮競技)
+0x238EF8	Union Depository Vault	聯合儲蓄金庫
+0x238F10	FINBANK	銀行
+0x238F18	Janitor Apartment	管理員公寓
+0x238F30	Building next to Jewelry Store	珠寶店旁樓
+0x238F60	Garage	車庫
+0x238F68	Humane Labs	人道實驗室
+0x238F78	Paleto Bay Sheriff Office	佩立托灣警局
+0x238F98	Paleto Bay Bank	佩灣銀行
+0x238FA8	Sandy Shores Sheriff Office	沙灘警局
+0x238FC8	Tequi La-La	提基啦啦
+0x238FD8	Franklin's Aunt House	富蘭克林姑姑家
+0x238FF0	Recycling Plant	回收廠
+0x239000	Foundry	鑄造
+0x239008	Meat Packing Facility	肉品加工廠
+0x239020	Madrazo's Ranch	馬德拉索
+0x239030	Floyd's Apartment	佛洛伊德公寓
+0x239048	Hayes Autos	海斯車行
+0x239058	Epsilon Storage Room	艾普西隆倉庫
+0x239070	Space Docker Garage	太空車庫
+0x239088	Hotel Room	旅館房間
+0x239098	Torture Room	刑求室
+0x2390A8	Bahama Mama's West	巴哈馬西
+0x2390C0	Office Dr Friedlander	傅萊德蘭診所
+0x2390D8	FIB Building Top Floor	FIB大樓頂
+0x2390F0	IAA Building	IAA大樓
+0x239100	Monkey Mosaic 1	猴拼圖1
+0x239110	Monkey Mosaic 2	猴拼圖2
+0x239120	Monkey Mosaic 3	猴拼圖3
+0x239130	Monkey Mosaic 4	猴拼圖4
+0x239140	Monkey Mosaic 5	猴拼圖5
+0x239150	Monkey Mosaic 6	猴拼圖6
+0x239160	Monkey Mosaic 7	猴拼圖7
+0x239170	Monkey Mosaic 8	猴拼圖8
+0x239180	Monkey Mosaic 9	猴拼圖9
+0x239190	Monkey Mosaic 10	猴拼圖10
+0x2391A8	Monkey Mosaic 11	猴拼圖11
+0x2391C0	Monkey Mosaic 12	猴拼圖12
+0x2391D8	Monkey Mosaic 13	猴拼圖13
+0x2391F0	Monkey Mosaic 14	猴拼圖14
+0x239208	Monkey Mosaic 15	猴拼圖15
+0x239220	Monkey Mosaic 16	猴拼圖16
+0x239238	Monkey Mosaic 17	猴拼圖17
+0x239250	Monkey Mosaic 18	猴拼圖18
+0x239268	Monkey Mosaic 19	猴拼圖19
+0x239280	Monkey Mosaic 20	猴拼圖20
+0x239298	Monkey Mosaic 21	猴拼圖21
+0x2392B0	Monkey Mosaic 22	猴拼圖22
+0x2392C8	Monkey Mosaic 23	猴拼圖23
+0x2392E0	Monkey Mosaic 24	猴拼圖24
+0x2392F8	Monkey Mosaic 25	猴拼圖25
+0x239310	Monkey Mosaic 26	猴拼圖26
+0x239328	Monkey Mosaic 27	猴拼圖27
+0x239340	Monkey Mosaic 28	猴拼圖28
+0x239358	Monkey Mosaic 29	猴拼圖29
+0x239370	Monkey Mosaic 30	猴拼圖30
+0x239388	Monkey Mosaic 31	猴拼圖31
+0x2393A0	Monkey Mosaic 32	猴拼圖32
+0x2393B8	Monkey Mosaic 33	猴拼圖33
+0x2393D0	Monkey Mosaic 34	猴拼圖34
+0x2393E8	Monkey Mosaic 35	猴拼圖35
+0x239400	Monkey Mosaic 36	猴拼圖36
+0x239418	Monkey Mosaic 37	猴拼圖37
+0x239430	Monkey Mosaic 38	猴拼圖38
+0x239448	Monkey Mosaic 39	猴拼圖39
+0x239460	Monkey Mosaic 40	猴拼圖40
+0x239478	Monkey Mosaic 41	猴拼圖41
+0x239490	Monkey Mosaic 42	猴拼圖42
+0x2394A8	Monkey Mosaic 43	猴拼圖43
+0x2394C0	Monkey Mosaic 44	猴拼圖44
+0x2394D8	Monkey Mosaic 45	猴拼圖45
+0x2394F0	Monkey Mosaic 46	猴拼圖46
+0x239508	Monkey Mosaic 47	猴拼圖47
+0x239520	Monkey Mosaic 48	猴拼圖48
+0x239538	Monkey Mosaic 49	猴拼圖49
+0x239550	Monkey Mosaic 50	猴拼圖50
+0x239568	Stunt Jump 1	特技跳1
+0x239578	Stunt Jump 2	特技跳2
+0x239588	Stunt Jump 3	特技跳3
+0x239598	Stunt Jump 4	特技跳4
+0x2395A8	Stunt Jump 5	特技跳5
+0x2395B8	Stunt Jump 6	特技跳6
+0x2395C8	Stunt Jump 7	特技跳7
+0x2395D8	Stunt Jump 8	特技跳8
+0x2395E8	Stunt Jump 9	特技跳9
+0x2395F8	Stunt Jump 10	特技跳10
+0x239608	Stunt Jump 11	特技跳11
+0x239618	Stunt Jump 12	特技跳12
+0x239628	Stunt Jump 13	特技跳13
+0x239638	Stunt Jump 14	特技跳14
+0x239648	Stunt Jump 15	特技跳15
+0x239658	Stunt Jump 16	特技跳16
+0x239668	Stunt Jump 17	特技跳17
+0x239678	Stunt Jump 18	特技跳18
+0x239688	Stunt Jump 19	特技跳19
+0x239698	Stunt Jump 20	特技跳20
+0x2396A8	Stunt Jump 21	特技跳21
+0x2396B8	Stunt Jump 22	特技跳22
+0x2396C8	Stunt Jump 23	特技跳23
+0x2396D8	Stunt Jump 24	特技跳24
+0x2396E8	Stunt Jump 25	特技跳25
+0x2396F8	Stunt Jump 26	特技跳26
+0x239708	Stunt Jump 27	特技跳27
+0x239718	Stunt Jump 28	特技跳28
+0x239728	Stunt Jump 29	特技跳29
+0x239738	Stunt Jump 30	特技跳30
+0x239748	Stunt Jump 31	特技跳31
+0x239758	Stunt Jump 32	特技跳32
+0x239768	Stunt Jump 33	特技跳33
+0x239778	Stunt Jump 34	特技跳34
+0x239788	Stunt Jump 35	特技跳35
+0x239798	Stunt Jump 36	特技跳36
+0x2397A8	Stunt Jump 37	特技跳37
+0x2397B8	Stunt Jump 38	特技跳38
+0x2397C8	Stunt Jump 39	特技跳39
+0x2397D8	Stunt Jump 40	特技跳40
+0x2397E8	Stunt Jump 41	特技跳41
+0x2397F8	Stunt Jump 42	特技跳42
+0x239808	Stunt Jump 43	特技跳43
+0x239818	Stunt Jump 44	特技跳44
+0x239828	Stunt Jump 45	特技跳45
+0x239838	Stunt Jump 46	特技跳46
+0x239848	Stunt Jump 47	特技跳47
+0x239858	Stunt Jump 48	特技跳48
+0x239868	Stunt Jump 49	特技跳49
+0x239878	Stunt Jump 50	特技跳50
+0x239888	Peyote 1	仙人掌1
+0x239898	Peyote 2	仙人掌2
+0x2398A8	Peyote 3	仙人掌3
+0x2398B8	Peyote 4	仙人掌4
+0x2398C8	Peyote 5	仙人掌5
+0x2398D8	Peyote 6	仙人掌6
+0x2398E8	Peyote 7	仙人掌7
+0x2398F8	Peyote 8	仙人掌8
+0x239908	Peyote 9	仙人掌9
+0x239918	Peyote 10	仙人掌10
+0x239928	Peyote 11	仙人掌11
+0x239938	Peyote 12	仙人掌12
+0x239948	Peyote 13	仙人掌13
+0x239958	Peyote 14	仙人掌14
+0x239968	Peyote 15	仙人掌15
+0x239978	Peyote 16	仙人掌16
+0x239988	Peyote 17	仙人掌17
+0x239998	Peyote 18	仙人掌18
+0x2399A8	Peyote 19	仙人掌19
+0x2399B8	Peyote 20	仙人掌20
+0x2399C8	Peyote 21	仙人掌21
+0x2399D8	Peyote 22	仙人掌22
+0x2399E8	Peyote 23	仙人掌23
+0x2399F8	Peyote 24	仙人掌24
+0x239A08	Peyote 25	仙人掌25
+0x239A18	Peyote 26	仙人掌26
+0x239A28	Peyote 27	仙人掌27
+0x239A34	Boar	野豬
+0x239A40	Border Collie	邊境牧羊犬
+0x239A58	Chicken Hawk	雞鷹
+0x239A68	Cormorant	鸕鶿
+0x239A78	Coyote	郊狼
+0x239A80	Crow	烏鴉
+0x239A88	Deer	鹿
+0x239A94	Husky	哈士奇
+0x239AA0	Mountain Lion	山獅
+0x239AB4	Poodle	貴賓
+0x239AC0	Rabbit	兔子
+0x239AC8	Retriever	尋回犬
+0x239AD8	Rotweiler	羅威納
+0x239AE8	Seagull	海鷗
+0x239AF0	West Highland Terrier	西高地白梗
+0x239B08	Sub Kraken	潛艇克拉肯
+0x239B18	Knife Flight 1	刀飛1
+0x239B28	Knife Flight 2	刀飛2
+0x239B38	Knife Flight 3	刀飛3
+0x239B48	Knife Flight 4	刀飛4
+0x239B58	Knife Flight 5	刀飛5
+0x239B68	Knife Flight 6	刀飛6
+0x239B78	Knife Flight 7	刀飛7
+0x239B88	Knife Flight 8	刀飛8
+0x239B98	Knife Flight 9	刀飛9
+0x239BA8	Knife Flight 10	刀飛10
+0x239BB8	Knife Flight 11	刀飛11
+0x239BC8	Knife Flight 12	刀飛12
+0x239BD8	Knife Flight 13	刀飛13
+0x239BE8	Knife Flight 14	刀飛14
+0x239BF8	Knife Flight 15	刀飛15
+0x239C08	Bail Bonds Maude	保釋(莫德)
+0x239C20	Bail Jumper 1 Ralph Ostrowski	逃保1拉爾夫
+0x239C40	Bail Jumper 2 Larry Tupper	逃保2拉瑞
+0x239C60	Bail Jumper 3 Glen Scovill	逃保3格倫
+0x239C80	Bail Jumper 4 Curtis Weaver	逃保4柯蒂斯
+0x239CA0	Vinewood Souvenirs, Tyler	藤木紀念品(泰勒)
+0x239CC0	Vinewood Souvenirs, Mark	藤木紀念品(馬克)
+0x239CE0	Vinewood Souvenirs, Willie	藤木紀念品(威利)
+0x239D00	Vinewood Souvenirs, Kerry	藤木紀念品(凱瑞)
+0x23D2E0	AA Coffee	咖啡
+0x23D308	AA Smoke	煙霧
+0x23D330	Binoculars	望遠鏡
+0x23D358	Bum Freeway	乞丐公路
+0x23D380	Bum Slumped	乞丐倒地
+0x23D3B0	Bum Standing	乞丐站立
+0x23D3D8	Bum Wash	乞丐擦窗
+0x23D408	Car Park Attendant	停車場管理員
+0x23D438	Cheering	歡呼
+0x23D460	Clipboard	剪貼板
+0x23D488	Constant Drill	持續鑽孔
+0x23D4B0	Cop Idles	警察待機
+0x23D4D8	Drinking	喝酒
+0x23D500	Drug Dealer	毒販
+0x23D530	Drug Dealer Hard	毒販(難)
+0x23D570	Mobile Film Shocking	流動電影拍攝
+0x23D5B0	Gardener Leaf Blower	園丁吹落葉
+0x23D5E8	Gardener Plant	園丁種植
+0x23D610	Golf Player	高爾夫球手
+0x23D640	Guard Patrol	警衛巡邏
+0x23D668	Guard Stand	警衛站崗
+0x23D698	Guard Stand Army	軍營警衛崗
+0x23D6C8	Hammering	敲打
+0x23D6F8	Hang Out Street	街頭閒晃
+0x23D728	Hiker Standing	登山客站立
+0x23D758	Human Statue	人體雕像
+0x23D780	Janitor	清潔
+0x23D7A8	Jog Standing	慢跑站立
+0x23D7D0	Leaning	倚靠
+0x23D7F0	Maid Clean	女僕打掃
+0x23D818	Muscle Flex	展示肌肉
+0x23D848	Muscle Free Weights	自由重量
+0x23D878	Musician	樂手
+0x23D8A0	Paparazzi	狗仔
+0x23D8C8	Partying	開趴
+0x23D8EC	Picnic	野餐
+0x23D920	Prostitute High Class	高級妓女
+0x23D960	Prostitute Low Class	低級妓女
+0x23D990	Push Ups	伏地挺身
+0x23D9B8	Seat Ledge	窗台坐
+0x23D9E8	Seat Ledge Eating	窗台吃東西
+0x23DA18	Seat Steps	階梯坐
+0x23DA40	Seat Wall	牆邊坐
+0x23DA70	Seat Wall Eating	牆邊吃東西
+0x23DAA8	Seat Wall Tablet	牆邊玩平板
+0x23DAE8	Security Shine Torch	警衛手電
+0x23DB18	Sit Ups	仰臥
+0x23DB38	Smoking	抽菸
+0x23DB58	Smoking Pot	抽大麻
+0x23DB80	Stand Fire	站立開火
+0x23DBB0	Stand Fishing	釣魚站立
+0x23DC18	Stand Impatient Upright	不耐站立
+0x23DC50	Stand Mobile	站著滑手機
+0x23DC88	Stand Mobile Upright	站著看手機
+0x23DCC0	Strip Watch Stand	街頭表演站
+0x23DCEC	Stupor	醉態
+0x23DD10	Sunbathe	日光浴
+0x23DD40	Sunbathe Back	背部日光浴
+0x23DD68	Superhero	超級英雄
+0x23DD90	Swimming	游泳
+0x23DDC0	Tennis Player	網球選手
+0x23DDE8	Tourist Map	觀光地圖
+0x23DE18	Tourist Mobile	觀光手機
+0x23DE48	Vehicle Mechanic	車輛技師
+0x23DE78	Welding	焊接
+0x23DEA0	Shop Browse	逛商店
+0x23DEC4	Yoga	瑜伽
+0x23DF38	Bum Bin	翻桶
+0x23DF60	Bum Shopping Cart	乞丐推車
+0x23DF98	Muscle Chin Ups	引體向上
+0x23DFC8	Muscle Chin Ups Army	軍營引體向上
+0x23E008	Muscle Chin Ups Prison	監獄引體向上
+0x23E040	Parking Meter	停車收費錶
+0x23E070	Seat Armchair	扶手椅坐
+0x23E098	Seat Bar	吧台坐
+0x23E0C0	Seat Bench	長椅坐
+0x23E0F0	Seat Bench Drink	長椅喝飲料
+0x23E130	Seat Bench Drink Beer	長椅喝啤酒
+0x23E168	Seat Bench Food	長椅吃東西
+0x23E198	Seat Bus Stop Wait	車站候車
+0x23E1C8	Seat Chair	椅子坐
+0x23E1F8	Seat Chair Drink	椅子喝飲料
+0x23E238	Seat Chair Drink Beer	椅子喝啤酒
+0x23E270	Seat Chair Food	椅子吃東西
+0x23E2A0	Seat Chair Upright	椅子端坐
+0x23E2D8	Seat Chair MP Player	椅子坐(MP)
+0x23E310	Seat Computer	電腦前坐
+0x23E340	Seat Deckchair	躺椅坐
+0x23E370	Seat Deckchair Drink	躺椅喝飲料
+0x23E3B0	Seat Muscle Bench Press	臥推坐
+0x23E3F8	Seat Muscle Bench Press Prison	監獄臥推
+0x23E430	Seat Sewing	縫紉坐
+0x23E460	Seat Strip Watch	街頭表演坐
+0x23E498	Seat Sunlounger	日光椅坐
+0x23E4BC	Cower	抱頭
+0x23E4E8	Cross Road Wait	路口等待
+0x23E510	Park Car	公園車輛
+0x23E538	Movie Bulb	電影燈泡
+0x23E568	Movie Studio Light	片場燈光
+0x23E598	Medic Kneel	醫護跪姿
+0x23E5C8	Medic Tend to Dead	醫生救治死者
+0x23E600	Medic Time of Death	死亡時間
+0x23E638	Police Crowd Control	警察控場
+0x23E670	Police Investigate	警察調查
+0x23E6A0	Stand Cower	抱頭站立
+0x23E6C8	Boar Grazing	野豬吃草
+0x23E6F8	Cat Sleeping Ground	貓睡地面
+0x23E730	Cat Sleeping Ledge	貓睡窗台
+0x23E760	Cow Grazing	牛吃草
+0x23E788	Coyote Howl	郊狼嚎叫
+0x23E7B0	Coyote Rest	郊狼休息
+0x23E7D8	Coyote Wander	郊狼遊蕩
+0x23E808	Chickenhawk Feeding	雞鷹進食
+0x23E840	Chickenhawk Standing	雞鷹站立
+0x23E878	Cormorant Standing	鸕鶿站立
+0x23E8A8	Crow Feeding	烏鴉進食
+0x23E8D0	Crow Standing	烏鴉站立
+0x23E8F8	Deer Grazing	鹿吃草
+0x23E928	Barking Rottweiler	吠叫羅威納
+0x23E960	Barking Retriever	吠叫尋回犬
+0x23E998	Barking Shepherd	吠叫牧羊犬
+0x23E9D0	Sitting Rotweiler	坐姿羅威納
+0x23EA08	Sitting Retriever	坐姿尋回犬
+0x23EA40	Sitting Sheperd	坐姿牧羊犬
+0x23EA68	Barking Small	吠叫小狗
+0x23EA90	Sitting Small	坐姿小狗
+0x23EAB0	Fish Idle	魚待機
+0x23EAD8	Gull Feeding	海鷗進食
+0x23EB00	Gull Standing	海鷗站立
+0x23EB28	Hen Pecking	母雞啄食
+0x23EB50	Hen Standing	母雞站立
+0x23EB80	Mountain Lion Rest	山獅休息
+0x23EBB8	Mountain Lion Wander	山獅遊蕩
+0x23EBE8	Pig Grazing	豬吃草
+0x23EC10	Pigeon Feeding	鴿子進食
+0x23EC38	Pigeon Standing	鴿子站立
+0x23EC60	Rabbit Eating	兔子進食
+0x23EC88	Rats Eating	老鼠進食
+0x23ECB0	Shark Swim	鯊魚游動
+0x23ECD8	Bird in Tree	樹上鳥
+0x23ED08	Bird Telegraph Pole	電線桿鳥
+0x23ED30	Ear to Text	耳語簡訊
+0x23ED50	Ear to Text Fat	耳語胖簡訊
+0x23F80C	PEYOTE	仙人
+0x23FDB0	Parachute	降落傘
+0x23FE60	Crowbar	鐵撬
+0x23FFD4	SMG	槍
+0x240234	RPG	筒
+0x240760	Pimp	皮條
+0x240788	Ballas	巴幫
+0x2407B0	Dollar	美元
+0x2407E0	Diamond	鑽石
+0x240808	Hate	仇恨
+0x240830	Love	愛
+0x240878	King	王
+0x2408A0	Vagos	瓦幫
+0x240AB8	Teleport to Waypoint	傳送到導航點
+0x240AD0	Teleport to North Yankton	傳送到北揚克頓
+0x240AF0	Pickups	拾取
+0x240AF8	Other Teleports	其他傳送點
+0x240D18	Underwater Pickups	水下拾取物
+0x240D30	Weapon Pickups	武器拾取物
+0x240D40	Armor Pickups	護甲拾取
+0x240D50	Tracts	布條
+0x240D58	Jerry Cans	油桶
+0x240D68	Space Ship Parts	太空船零件
+0x240D80	Paper Scraps	紙屑
+0x240D90	First Aid	急救
+0x240DA0	Fly Under Bridges	飛越橋下
+0x240DB8	Monkey Mosaics	猴拼圖
+0x240DC8	Stunt Jumps	特技跳
+0x240DD8	Peyotes	仙人
+0x240DE0	Los Santos Tourist Info Wildlife Photography	洛聖都旅遊野生攝影
+0x240E10	Knife Flights	刀飛
+0x240E20	Bail Bonds Trevor	保釋(崔佛)
+0x240E38	Vinewood Souvenirs Trevor	藤木紀念品(崔佛)
+0x240EB0	Launcher Locations	發射點座標
+0x240EC8	Interiors	室內
+0x240ED8	Murder Mystery	兇殺謎案
+0x240EE8	Locations	地點
+0x240EF8	Base Jumping	跳傘
+0x240F08	Shop Robberies	搶商店
+0x240F18	Shops	商店
+0x240F20	Ambient	環境
+0x240F28	Safehouse	安全房子
+0x240F38	Random Events	隨機事件
+0x240F48	Strangers And Freaks	陌生人與怪咖
+0x2410F8	Slot 1	欄位1
+0x241100	Slot 2	欄位2
+0x241108	Slot 3	欄位3
+0x241110	Slot 4	欄位4
+0x241118	Slot 5	欄位5
+0x241120	Slot 6	欄位6
+0x241128	Slot 7	欄位7
+0x241130	Slot 8	欄位8
+0x241138	Slot 9	欄位9
+0x241140	Slot 10	格10
+0x241148	Slot 11	格11
+0x241150	Slot 12	格12
+0x241158	Slot 13	格13
+0x241160	Slot 14	格14
+0x241168	Slot 15	格15
+0x241170	Slot 16	格16
+0x241178	Slot 17	格17
+0x241180	Slot 18	格18
+0x241188	Slot 19	格19
+0x241190	Slot 20	格20
+0x241198	Slot 21	格21
+0x2411A0	Slot 22	格22
+0x2411A8	Slot 23	格23
+0x2411B0	Slot 24	格24
+0x2411B8	Slot 25	格25
+0x2411C0	Slot 26	格26
+0x2411C8	Slot 27	格27
+0x2411D0	Slot 28	格28
+0x2411D8	Slot 29	格29
+0x2411E0	Slot 30	格30
+0x241200	Slot 31	格31
+0x241208	Slot 32	格32
+0x241210	Slot 33	格33
+0x241218	Slot 34	格34
+0x241220	Slot 35	格35
+0x241228	Slot 36	格36
+0x241230	Slot 37	格37
+0x241238	Slot 38	格38
+0x241240	Slot 39	格39
+0x241248	Slot 40	格40
+0x241250	Slot 41	格41
+0x241258	Slot 42	格42
+0x241260	Slot 43	格43
+0x241268	Slot 44	格44
+0x241270	Slot 45	格45
+0x241278	Slot 46	格46
+0x241280	Slot 47	格47
+0x241288	Slot 48	格48
+0x241290	Slot 49	格49
+0x241298	Slot 50	格50
+0x2412A0	Slot 51	格51
+0x2412A8	Slot 52	格52
+0x2412B0	Slot 53	格53
+0x2412B8	Slot 54	格54
+0x2412C0	Slot 55	格55
+0x2412C8	Slot 56	格56
+0x2412D0	Slot 57	格57
+0x2412D8	Slot 58	格58
+0x2412E0	Slot 59	格59
+0x2412E8	Slot 60	格60
+0x2412F0	Monday	週一
+0x2412F8	Wednesday	週三
+0x241308	Tuesday	週二
+0x241310	Friday	週五
+0x241318	Thursday	週四
+0x241324	Sunday	週日
+0x241330	Saturday	週六
+0x241340	Slow Motion 25 % 	慢動作25%
+0x241368	Slow Motion 75 % 	慢動作75%
+0x241380	Slow Motion 50 % 	慢動作50%
+0x241398	Fast Motion	快速動作
+0x2413A8	Normal Game Speed	正常遊戲速度
+0x2413C0	Afternoon (18)	下午（18）
+0x2413D0	Noon (12)	中午（12）
+0x2413E0	Night (05)	夜晚（05）
+0x2413F0	Evening (23)	傍晚（23）
+0x241400	Back One Hour	延後一小時
+0x241410	Ahead One Hour	提前一小時
+0x241420	Real Time Duration	實際時長
+0x241438	Sync Time to System Time	時間同步系統
+0x241458	Set Hour of Day, using num 6 or num 4	設定小時(6/4)
+0x241480	Freeze Time	凍結時間
+0x241490	Set Day, Forward/Back using num 6 or num 4	設定日期(6/4)
+0x2414C0	Set Minute of Hour, using num 6 or num 4	設定分鐘(6/4)
+0x241A50	slot 1	格1
+0x241A74	slot 3	格3
+0x241A7C	slot 2	格2
+0x241A84	slot 5	格5
+0x241A8C	slot 4	格4
+0x241A94	slot 7	格7
+0x241A9C	slot 6	格6
+0x241AA4	slot 9	格9
+0x241AAC	slot 8	格8
+0x241AD0	slot 10	格10
+0x243590	GodMode	無敵
+0x244BA0	Get all Weapons	全部武器
+0x244BB0	Weapons Menu 1	武器選單1
+0x244BC0	Remove Current Weapon	移除當前武器
+0x244BD8	Remove All Weapons	移除全部武器
+0x244BF0	Hide Current Weapon	隱藏當前武器
+0x244C08	Set Ammo In Current Weapon	設定當前武器彈藥
+0x244C28	Explosive Ammo	爆炸彈藥
+0x244C38	Fire Ammo     	火焰彈藥
+0x244C48	Vehicle Rockets	載具火箭
+0x244C58	Explosive Melee	爆炸近戰
+0x244C68	Unlimited Ammo	無限彈藥
+0x244C78	No Reload	不換彈
+0x244C88	Thermal Vision	熱成像
+0x244C98	Night Vision	夜視
+0x244CA8	Weapon Attachments and Tint Menu	武器配件與塗裝選單
+0x244CD0	Slow Motion While Aiming	瞄準時慢動作
+0x244CF0	Parachute Menu	降落傘選單
+0x244D00	Spawn Weapon by Model Name	依模型名生成武器
+0x244D20	No Current Weapon (unarmed)	目前沒有武器（空手）
+0x244D40	All Weapons Removed	已移除全部武器
+0x244D58	No Current Weapon	目前沒有武器
+0x244D70	Current Weapon Removed	已移除目前武器
+0x244D88	Fire Ammo Disabled	火焰彈藥已關閉
+0x244DA0	Fire Ammo Enabled	火焰彈藥已開啟
+0x244DB8	Explosive Ammo Disabled	爆炸彈藥已關閉
+0x244DD0	Explosive Ammo Enabled	爆炸彈藥已開啟
+0x244DE8	Explosive Melee Disabled	爆炸近戰已關閉
+0x244E08	Explosive Melee Enabled	爆炸近戰已開啟
+0x244E20	Vehicle Rockets Disabled	載具火箭已關閉
+0x244E40	Vehicle Rockets Enabled	載具火箭已開啟
+0x244E58	No Reload Disabled	不換彈已關閉
+0x244E70	No Reload Enabled	不換彈已開啟
+0x244E88	Unlimited Ammo Disabled	無限彈藥已關閉
+0x244EA0	Unlimited Ammo Enabled	無限彈藥已開啟
+0x244EB8	 Removed	 已移除
+0x244EC8	Nightvision Disabled	夜視已關閉
+0x244EE0	Enter Ammo:	輸入彈藥：
+0x244EF0	Weapons Menu 2	武器選單2
+0x244F00	Set Attachments or Tint using num 5, change using num 6 and num 4	用5設定配件或塗裝，6和4切換
+0x244F48	Attachments	配件
+0x244F58	Spawn Weapon By Model Name	依模型名生成武器
+0x244F78	Current Weapon:	目前武器：
+0x244F88	Rainbow Chute	彩虹傘
+0x244F98	Enter Weapon Model Name:	輸入武器模型名：
+0x244FB8	Seaside Stripes Chute	海岸條紋傘
+0x244FD0	Red Chute	紅傘
+0x244FE0	Patriot Chute	愛國者傘
+0x244FF0	Widowmaker Chute	寡婦傘
+0x245008	Black Chute	黑傘
+0x245018	Blue Chute	藍傘
+0x245028	Airforce Chute	空軍傘
+0x245038	Hornet Chute	黃蜂傘
+0x245048	Shadow Chute	暗影傘
+0x245058	Desert Chute	沙漠傘
+0x245068	Airborn Chute	空降傘
+0x245078	High Altitude Chute	高空傘
+0x245090	Parachute Smoke Color	傘煙顏色
+0x2450A8	Sunrise Chute	日出傘
+0x2450B8	Secondary Parachute Tint	副傘塗裝
+0x2450D8	Primary Parachute Tint	主傘塗裝
+0x2450F0	Equip Primary Parachute	裝備主傘
+0x245108	Unlimited Parachutes	無限降落傘
+0x245120	Remove Primary Parachute	移除主傘
+0x245140	Equip Secondary Parachute	裝備副傘
+0x2452C0	Force Weather	強制天氣
+0x2452F8	E/Disable Wind	風力開關
