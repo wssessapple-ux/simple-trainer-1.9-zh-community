@@ -105,6 +105,11 @@ Copy-Item .\TrainerV.zh.asi 'D:\Games\Grand Theft Auto V\TrainerV.asi'
 - 预算先看 `report/coverage.csv` 的 `Budget` 列，UTF-8 一个汉字 3 字节，超了脚本会跳过并列出
 - 改完请把 `report/coverage.csv` 一起更新，方便别人看差额
 
+## 维护者的其他项目
+
+- **[TACZ-Legacy](https://github.com/wssessapple-ux/TACZ-Legacy)** —— Minecraft 1.12.2 上的 TaCZ 枪械模组非官方移植（[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tacz-legacy)）。同样是「老版本 + 底层限制」的活：1.12.2 没有 PlayerAnimator，第三人称动画只能靠四通道 + 枪械事件驱动绕过去。
+- 那边遇到的问题类型和这里一样：改不动的地方就写清楚为什么改不动，而不是硬改到能跑为止。
+
 ## 免责
 
 - 单机自用。**别在 GTA Online 用**——带 ScriptHookV 上线本身违反 Rockstar 服务条款，跟汉化无关。
