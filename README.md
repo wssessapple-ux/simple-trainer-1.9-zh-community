@@ -108,7 +108,7 @@ Copy-Item .\TrainerV.zh.asi 'D:\Games\Grand Theft Auto V\TrainerV.asi'
 ## 维护者的其他项目
 
 - **[TACZ-Legacy](https://github.com/wssessapple-ux/TACZ-Legacy)** —— Minecraft 1.12.2 上的 TaCZ 枪械模组非官方移植（[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tacz-legacy)）。同样是「老版本 + 底层限制」的活：1.12.2 没有 PlayerAnimator，第三人称动画只能靠四通道 + 枪械事件驱动绕过去。
-- **[gta5-legacy-check](https://github.com/wssessapple-ux/gta5-legacy-check)** —— 一个 PowerShell 体检脚本：只读扫描游戏目录，把「exe 与 ScriptHookV 版本对不上、少了 dinput8 / OpenIV.asi、修改器跟游戏版本跨度太大」这类坑一次列清楚。装完东西按 F3 没反应的时候先跑它，比盲装快。
+- **[gta5-legacy-check](https://github.com/wssessapple-ux/gta5-legacy-check)** —— 两个 PowerShell 小工具：一个只读扫描游戏目录，把「exe 与 ScriptHookV 版本对不上、少了 dinput8 / OpenIV.asi、修改器跟游戏版本跨度太大」这类坑列清楚；另一个是 `trainerv.ini` 按键编辑器，列表里选一行按键盘就换键。装完东西按 F3 没反应，先跑体检那个。
 - 那边遇到的问题类型和这里一样：改不动的地方就写清楚为什么改不动，而不是硬改到能跑为止。
 
 ## 免责
